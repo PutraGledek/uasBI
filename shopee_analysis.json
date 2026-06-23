@@ -1,0 +1,4910 @@
+{
+  "metadata": {
+    "generated_at": "2026-06-20T14:20:10.784660",
+    "source_file": "Shopee_Seller_Transaction.csv",
+    "total_rows": 403,
+    "total_orders": 325,
+    "total_unique_products": 20,
+    "multi_item_orders": 67
+  },
+  "transactions": [
+    {
+      "No. Pesanan": "251104U5YR6YEJ",
+      "Waktu Pesanan Dibuat": "2025-11-04 12:42",
+      "Nama Produk": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MEDIUM Lenjer, Kulit & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 134.0,
+      "Username (Pembeli)": "yulifatma12",
+      "Kota/Kabupaten": "KOTA BEKASI"
+    },
+    {
+      "No. Pesanan": "251104U5YR6YEJ",
+      "Waktu Pesanan Dibuat": "2025-11-04 12:42",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 10 pcs Palembang Asli SIZE MEDIUM Lenjer, Kulit & Telur",
+      "Nama Variasi": "Adaan + Kulit,Lenjer + Telur",
+      "Jumlah": 1,
+      "Total Pembayaran": 134.0,
+      "Username (Pembeli)": "yulifatma12",
+      "Kota/Kabupaten": "KOTA BEKASI"
+    },
+    {
+      "No. Pesanan": "251109BFH2FJV3",
+      "Waktu Pesanan Dibuat": "2025-11-09 20:37",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 95.576,
+      "Username (Pembeli)": "lenymangelina",
+      "Kota/Kabupaten": "KOTA JAKARTA SELATAN"
+    },
+    {
+      "No. Pesanan": "251110CRD27UKX",
+      "Waktu Pesanan Dibuat": "2025-11-10 08:48",
+      "Nama Produk": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 52.9,
+      "Username (Pembeli)": "auliasolehah050",
+      "Kota/Kabupaten": "KOTA BANDAR LAMPUNG"
+    },
+    {
+      "No. Pesanan": "251111GFK2KMXX",
+      "Waktu Pesanan Dibuat": "2025-11-11 20:21",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 85.5,
+      "Username (Pembeli)": "sitiaisya.humaira",
+      "Kota/Kabupaten": "KAB. JEMBER"
+    },
+    {
+      "No. Pesanan": "2511209CKSXKTV",
+      "Waktu Pesanan Dibuat": "2025-11-20 14:26",
+      "Nama Produk": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 160.1,
+      "Username (Pembeli)": "usanmsinggi",
+      "Kota/Kabupaten": "KOTA MEDAN"
+    },
+    {
+      "No. Pesanan": "2511209CKSXKTV",
+      "Waktu Pesanan Dibuat": "2025-11-20 14:26",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 160.1,
+      "Username (Pembeli)": "usanmsinggi",
+      "Kota/Kabupaten": "KOTA MEDAN"
+    },
+    {
+      "No. Pesanan": "251120A3SKTE1Y",
+      "Waktu Pesanan Dibuat": "2025-11-20 21:21",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 2,
+      "Total Pembayaran": 0.0,
+      "Username (Pembeli)": "rizalmohammad707",
+      "Kota/Kabupaten": "KAB. SAMPANG"
+    },
+    {
+      "No. Pesanan": "251125MEN63DXU",
+      "Waktu Pesanan Dibuat": "2025-11-25 00:02",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 91.3,
+      "Username (Pembeli)": "nayottama702",
+      "Kota/Kabupaten": "KAB. JOMBANG"
+    },
+    {
+      "No. Pesanan": "251127U9G6F0YH",
+      "Waktu Pesanan Dibuat": "2025-11-27 17:18",
+      "Nama Produk": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MEDIUM Lenjer, Kulit & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 3,
+      "Total Pembayaran": 265.9,
+      "Username (Pembeli)": "adesiani",
+      "Kota/Kabupaten": "KOTA PALEMBANG"
+    },
+    {
+      "No. Pesanan": "251007F2ED9R1T",
+      "Waktu Pesanan Dibuat": "2025-10-07 13:33",
+      "Nama Produk": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 7,
+      "Total Pembayaran": 352.5,
+      "Username (Pembeli)": "sitiamanatun",
+      "Kota/Kabupaten": "KAB. GROBOGAN"
+    },
+    {
+      "No. Pesanan": "251008HBR32TN4",
+      "Waktu Pesanan Dibuat": "2025-10-08 11:25",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 5,
+      "Total Pembayaran": 458.2,
+      "Username (Pembeli)": "magdalena_eta",
+      "Kota/Kabupaten": "KOTA PALEMBANG"
+    },
+    {
+      "No. Pesanan": "251008HBR32TN4",
+      "Waktu Pesanan Dibuat": "2025-10-08 11:25",
+      "Nama Produk": "Sterofoam Extra",
+      "Nama Variasi": "5 Liter,10 Literr",
+      "Jumlah": 1,
+      "Total Pembayaran": 458.2,
+      "Username (Pembeli)": "magdalena_eta",
+      "Kota/Kabupaten": "KOTA PALEMBANG"
+    },
+    {
+      "No. Pesanan": "251008HKJC2MVR",
+      "Waktu Pesanan Dibuat": "2025-10-08 13:45",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 98.0,
+      "Username (Pembeli)": "raudazah",
+      "Kota/Kabupaten": "KOTA BANDUNG"
+    },
+    {
+      "No. Pesanan": "251008HM3R1SCD",
+      "Waktu Pesanan Dibuat": "2025-10-08 13:55",
+      "Nama Produk": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 3,
+      "Total Pembayaran": 172.0,
+      "Username (Pembeli)": "oktavyanjaka",
+      "Kota/Kabupaten": "KAB. WONOGIRI"
+    },
+    {
+      "No. Pesanan": "251010PKCQ43UF",
+      "Waktu Pesanan Dibuat": "2025-10-10 13:25",
+      "Nama Produk": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 48.5,
+      "Username (Pembeli)": "titiknasianty",
+      "Kota/Kabupaten": "KOTA BANDAR LAMPUNG"
+    },
+    {
+      "No. Pesanan": "251012UBFTHBNS",
+      "Waktu Pesanan Dibuat": "2025-10-12 10:47",
+      "Nama Produk": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MEDIUM Lenjer, Kulit & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 187.4,
+      "Username (Pembeli)": "muhammadanca",
+      "Kota/Kabupaten": "KAB. SIDOARJO"
+    },
+    {
+      "No. Pesanan": "251012UBFTHBNS",
+      "Waktu Pesanan Dibuat": "2025-10-12 10:47",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 187.4,
+      "Username (Pembeli)": "muhammadanca",
+      "Kota/Kabupaten": "KAB. SIDOARJO"
+    },
+    {
+      "No. Pesanan": "251012VE4H4WS5",
+      "Waktu Pesanan Dibuat": "2025-10-12 21:07",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 85.913,
+      "Username (Pembeli)": "renaseptiani090902.",
+      "Kota/Kabupaten": "KAB. BATANG"
+    },
+    {
+      "No. Pesanan": "25101564NGCSGG",
+      "Waktu Pesanan Dibuat": "2025-10-15 14:06",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 87.5,
+      "Username (Pembeli)": "annamirg",
+      "Kota/Kabupaten": "KOTA TANGERANG SELATAN"
+    },
+    {
+      "No. Pesanan": "251020J9WUT7SV",
+      "Waktu Pesanan Dibuat": "2025-10-20 10:12",
+      "Nama Produk": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MEDIUM Lenjer, Kulit & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 0.0,
+      "Username (Pembeli)": "ardhann20",
+      "Kota/Kabupaten": "KAB. SLEMAN"
+    },
+    {
+      "No. Pesanan": "251020J9WUT7SV",
+      "Waktu Pesanan Dibuat": "2025-10-20 10:12",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 0.0,
+      "Username (Pembeli)": "ardhann20",
+      "Kota/Kabupaten": "KAB. SLEMAN"
+    },
+    {
+      "No. Pesanan": "251021N4GNVCYF",
+      "Waktu Pesanan Dibuat": "2025-10-21 13:13",
+      "Nama Produk": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 131.955,
+      "Username (Pembeli)": "afifahadeyh",
+      "Kota/Kabupaten": "KAB. BANYUMAS"
+    },
+    {
+      "No. Pesanan": "251021N4GNVCYF",
+      "Waktu Pesanan Dibuat": "2025-10-21 13:13",
+      "Nama Produk": "Pempek Kulit Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 131.955,
+      "Username (Pembeli)": "afifahadeyh",
+      "Kota/Kabupaten": "KAB. BANYUMAS"
+    },
+    {
+      "No. Pesanan": "251021NRRRCUD2",
+      "Waktu Pesanan Dibuat": "2025-10-21 19:15",
+      "Nama Produk": "Pempek Kulit Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 0.0,
+      "Username (Pembeli)": "wildaazizah30",
+      "Kota/Kabupaten": "KOTA MEDAN"
+    },
+    {
+      "No. Pesanan": "251023S875P8HC",
+      "Waktu Pesanan Dibuat": "2025-10-23 04:30",
+      "Nama Produk": "Pempek Kulit Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 0.0,
+      "Username (Pembeli)": "wildaazizah30",
+      "Kota/Kabupaten": "KOTA MEDAN"
+    },
+    {
+      "No. Pesanan": "251023SHAGT9KV",
+      "Waktu Pesanan Dibuat": "2025-10-23 07:13",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 289.6,
+      "Username (Pembeli)": "wildaazizah30",
+      "Kota/Kabupaten": "KOTA MEDAN"
+    },
+    {
+      "No. Pesanan": "251023SHAGT9KV",
+      "Waktu Pesanan Dibuat": "2025-10-23 07:13",
+      "Nama Produk": "Pempek Kulit Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 289.6,
+      "Username (Pembeli)": "wildaazizah30",
+      "Kota/Kabupaten": "KOTA MEDAN"
+    },
+    {
+      "No. Pesanan": "251023SHAGT9KV",
+      "Waktu Pesanan Dibuat": "2025-10-23 07:13",
+      "Nama Produk": "Sterofoam Extra",
+      "Nama Variasi": "5 Liter,10 Literr",
+      "Jumlah": 1,
+      "Total Pembayaran": 289.6,
+      "Username (Pembeli)": "wildaazizah30",
+      "Kota/Kabupaten": "KOTA MEDAN"
+    },
+    {
+      "No. Pesanan": "25102635755SVJ",
+      "Waktu Pesanan Dibuat": "2025-10-25 23:24",
+      "Nama Produk": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MEDIUM Lenjer, Kulit & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 156.737,
+      "Username (Pembeli)": "datawestay",
+      "Kota/Kabupaten": "KAB. SLEMAN"
+    },
+    {
+      "No. Pesanan": "25102635755SVJ",
+      "Waktu Pesanan Dibuat": "2025-10-25 23:24",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 156.737,
+      "Username (Pembeli)": "datawestay",
+      "Kota/Kabupaten": "KAB. SLEMAN"
+    },
+    {
+      "No. Pesanan": "2510289GCM46VC",
+      "Waktu Pesanan Dibuat": "2025-10-28 12:00",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 97.5,
+      "Username (Pembeli)": "mamaultramen",
+      "Kota/Kabupaten": "KOTA PALEMBANG"
+    },
+    {
+      "No. Pesanan": "251029BGK1KVTW",
+      "Waktu Pesanan Dibuat": "2025-10-29 07:09",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 85.6,
+      "Username (Pembeli)": "ratihastinadewi",
+      "Kota/Kabupaten": "KOTA BATU"
+    },
+    {
+      "No. Pesanan": "251031FTMPPTVT",
+      "Waktu Pesanan Dibuat": "2025-10-31 00:20",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 10 pcs Palembang Asli SIZE MEDIUM Lenjer, Kulit & Telur",
+      "Nama Variasi": "Adaan + Kulit,Lenjer + Telur",
+      "Jumlah": 1,
+      "Total Pembayaran": 51.078,
+      "Username (Pembeli)": "giptraf",
+      "Kota/Kabupaten": "KOTA PEKANBARU"
+    },
+    {
+      "No. Pesanan": "2509080JG4TS4M",
+      "Waktu Pesanan Dibuat": "2025-09-08 15:37",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 88.0,
+      "Username (Pembeli)": "danidonat20",
+      "Kota/Kabupaten": "KAB. KEBUMEN"
+    },
+    {
+      "No. Pesanan": "2509080JQDFMU6",
+      "Waktu Pesanan Dibuat": "2025-09-08 15:41",
+      "Nama Produk": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 50.5,
+      "Username (Pembeli)": "danidonat20",
+      "Kota/Kabupaten": "KAB. KEBUMEN"
+    },
+    {
+      "No. Pesanan": "2509118EC6Y8YK",
+      "Waktu Pesanan Dibuat": "2025-09-11 18:45",
+      "Nama Produk": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MEDIUM Lenjer, Kulit & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 177.5,
+      "Username (Pembeli)": "rizkysaniyyah18",
+      "Kota/Kabupaten": "KOTA JAMBI"
+    },
+    {
+      "No. Pesanan": "2509118EC6Y8YK",
+      "Waktu Pesanan Dibuat": "2025-09-11 18:45",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 177.5,
+      "Username (Pembeli)": "rizkysaniyyah18",
+      "Kota/Kabupaten": "KOTA JAMBI"
+    },
+    {
+      "No. Pesanan": "250914FFD9CMGT",
+      "Waktu Pesanan Dibuat": "2025-09-14 13:52",
+      "Nama Produk": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 48.5,
+      "Username (Pembeli)": "vieonlineshop",
+      "Kota/Kabupaten": "KAB. TANGERANG"
+    },
+    {
+      "No. Pesanan": "250914G1DBVBNK",
+      "Waktu Pesanan Dibuat": "2025-09-14 19:14",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 97.0,
+      "Username (Pembeli)": "ougleo54e0",
+      "Kota/Kabupaten": "KOTA PALEMBANG"
+    },
+    {
+      "No. Pesanan": "250915GFR2UU11",
+      "Waktu Pesanan Dibuat": "2025-09-14 23:31",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 3,
+      "Total Pembayaran": 293.5,
+      "Username (Pembeli)": "wcuz64g5wv",
+      "Kota/Kabupaten": "KAB. CIREBON"
+    },
+    {
+      "No. Pesanan": "250917QS2CXMX1",
+      "Waktu Pesanan Dibuat": "2025-09-17 21:06",
+      "Nama Produk": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 49.5,
+      "Username (Pembeli)": "maoul",
+      "Kota/Kabupaten": "KAB. BEKASI"
+    },
+    {
+      "No. Pesanan": "250918S2ERB992",
+      "Waktu Pesanan Dibuat": "2025-09-18 09:27",
+      "Nama Produk": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 0.0,
+      "Username (Pembeli)": "armadani445",
+      "Kota/Kabupaten": "KAB. BOJONEGORO"
+    },
+    {
+      "No. Pesanan": "25092019H56K2G",
+      "Waktu Pesanan Dibuat": "2025-09-20 12:16",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 2,
+      "Total Pembayaran": 173.5,
+      "Username (Pembeli)": "vieonlineshop",
+      "Kota/Kabupaten": "KAB. TANGERANG"
+    },
+    {
+      "No. Pesanan": "250925EFFV4G3U",
+      "Waktu Pesanan Dibuat": "2025-09-25 18:07",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 88.0,
+      "Username (Pembeli)": "nana_fafa",
+      "Kota/Kabupaten": "KOTA SURABAYA"
+    },
+    {
+      "No. Pesanan": "250929Q9B58CXB",
+      "Waktu Pesanan Dibuat": "2025-09-29 06:11",
+      "Nama Produk": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 0.0,
+      "Username (Pembeli)": "vinagustina23",
+      "Kota/Kabupaten": "KOTA PALEMBANG"
+    },
+    {
+      "No. Pesanan": "250801M67GADD9",
+      "Waktu Pesanan Dibuat": "2025-08-01 03:44",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 87.495,
+      "Username (Pembeli)": "la8xfzo_xv",
+      "Kota/Kabupaten": "KOTA JAKARTA BARAT"
+    },
+    {
+      "No. Pesanan": "250801NSRNU430",
+      "Waktu Pesanan Dibuat": "2025-08-01 19:07",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 128.7,
+      "Username (Pembeli)": "sherlywahyunii11",
+      "Kota/Kabupaten": "KOTA BINJAI"
+    },
+    {
+      "No. Pesanan": "250801NSRNU430",
+      "Waktu Pesanan Dibuat": "2025-08-01 19:07",
+      "Nama Produk": "Sterofoam Extra",
+      "Nama Variasi": "5 Liter,10 Literr",
+      "Jumlah": 1,
+      "Total Pembayaran": 128.7,
+      "Username (Pembeli)": "sherlywahyunii11",
+      "Kota/Kabupaten": "KOTA BINJAI"
+    },
+    {
+      "No. Pesanan": "250802Q4009K9X",
+      "Waktu Pesanan Dibuat": "2025-08-02 07:42",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 97.0,
+      "Username (Pembeli)": "mamaapichannel",
+      "Kota/Kabupaten": "KAB. TANGERANG"
+    },
+    {
+      "No. Pesanan": "250803SWC2EN2C",
+      "Waktu Pesanan Dibuat": "2025-08-03 10:22",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 87.4,
+      "Username (Pembeli)": "654321ahmadsamarinda",
+      "Kota/Kabupaten": "KOTA MALANG"
+    },
+    {
+      "No. Pesanan": "250804V32K9567",
+      "Waktu Pesanan Dibuat": "2025-08-04 07:09",
+      "Nama Produk": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 5,
+      "Total Pembayaran": 0.0,
+      "Username (Pembeli)": "2vc6voeifa",
+      "Kota/Kabupaten": "KAB. BANYUASIN"
+    },
+    {
+      "No. Pesanan": "2508051M8FF9WY",
+      "Waktu Pesanan Dibuat": "2025-08-05 08:21",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 2,
+      "Total Pembayaran": 165.9,
+      "Username (Pembeli)": "ratihastinadewi",
+      "Kota/Kabupaten": "KOTA BATU"
+    },
+    {
+      "No. Pesanan": "2508051X6RRDT9",
+      "Waktu Pesanan Dibuat": "2025-08-05 11:20",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 79.45,
+      "Username (Pembeli)": "kasih_rahmawati.25",
+      "Kota/Kabupaten": "KAB. LOMBOK TENGAH"
+    },
+    {
+      "No. Pesanan": "25080635HVHA57",
+      "Waktu Pesanan Dibuat": "2025-08-05 23:04",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 78.95,
+      "Username (Pembeli)": "lyan038",
+      "Kota/Kabupaten": "KOTA SEMARANG"
+    },
+    {
+      "No. Pesanan": "2508076XAK3M16",
+      "Waktu Pesanan Dibuat": "2025-08-07 11:05",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 10 pcs Palembang Asli SIZE MEDIUM Lenjer, Kulit & Telur",
+      "Nama Variasi": "Adaan + Kulit,Lenjer + Telur",
+      "Jumlah": 1,
+      "Total Pembayaran": 41.0,
+      "Username (Pembeli)": "hirayanti98",
+      "Kota/Kabupaten": "KAB. CIREBON"
+    },
+    {
+      "No. Pesanan": "25080777G2WD34",
+      "Waktu Pesanan Dibuat": "2025-08-07 13:49",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 77.95,
+      "Username (Pembeli)": "muhammad_fakhri",
+      "Kota/Kabupaten": "KOTA PEKANBARU"
+    },
+    {
+      "No. Pesanan": "2508089QWYV73S",
+      "Waktu Pesanan Dibuat": "2025-08-08 13:49",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 2,
+      "Total Pembayaran": 152.98,
+      "Username (Pembeli)": "wilasriastuti",
+      "Kota/Kabupaten": "KOTA DENPASAR"
+    },
+    {
+      "No. Pesanan": "250810EY669JR2",
+      "Waktu Pesanan Dibuat": "2025-08-10 15:42",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 78.85,
+      "Username (Pembeli)": "meilawatisulistyaputri",
+      "Kota/Kabupaten": "KAB. SUKOHARJO"
+    },
+    {
+      "No. Pesanan": "250811GH7H5192",
+      "Waktu Pesanan Dibuat": "2025-08-11 06:37",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 78.85,
+      "Username (Pembeli)": "melmel990307",
+      "Kota/Kabupaten": "KOTA PRABUMULIH"
+    },
+    {
+      "No. Pesanan": "250811HW2P0HDN",
+      "Waktu Pesanan Dibuat": "2025-08-11 19:42",
+      "Nama Produk": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 2,
+      "Total Pembayaran": 82.9,
+      "Username (Pembeli)": "indiqotrunadaa",
+      "Kota/Kabupaten": "KAB. INDRAMAYU"
+    },
+    {
+      "No. Pesanan": "250812K5XPS26S",
+      "Waktu Pesanan Dibuat": "2025-08-12 07:54",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 77.225,
+      "Username (Pembeli)": "amendeagg",
+      "Kota/Kabupaten": "KAB. TANGERANG"
+    },
+    {
+      "No. Pesanan": "250812MHTAVG89",
+      "Waktu Pesanan Dibuat": "2025-08-12 20:58",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 4,
+      "Total Pembayaran": 345.3,
+      "Username (Pembeli)": "ukik1996",
+      "Kota/Kabupaten": "KAB. MALANG"
+    },
+    {
+      "No. Pesanan": "250813PGUQXWNH",
+      "Waktu Pesanan Dibuat": "2025-08-13 15:47",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 77.39,
+      "Username (Pembeli)": "shazia.jihan",
+      "Kota/Kabupaten": "KOTA BENGKULU"
+    },
+    {
+      "No. Pesanan": "250815TYJ3WNW3",
+      "Waktu Pesanan Dibuat": "2025-08-15 10:20",
+      "Nama Produk": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 3,
+      "Total Pembayaran": 0.0,
+      "Username (Pembeli)": "2792cha",
+      "Kota/Kabupaten": "KAB. MAJALENGKA"
+    },
+    {
+      "No. Pesanan": "250815TYJ3WNW3",
+      "Waktu Pesanan Dibuat": "2025-08-15 10:20",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 0.0,
+      "Username (Pembeli)": "2792cha",
+      "Kota/Kabupaten": "KAB. MAJALENGKA"
+    },
+    {
+      "No. Pesanan": "250815U20F4904",
+      "Waktu Pesanan Dibuat": "2025-08-15 11:04",
+      "Nama Produk": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 2,
+      "Total Pembayaran": 158.95,
+      "Username (Pembeli)": "2792cha",
+      "Kota/Kabupaten": "KAB. MAJALENGKA"
+    },
+    {
+      "No. Pesanan": "250815U20F4904",
+      "Waktu Pesanan Dibuat": "2025-08-15 11:04",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 158.95,
+      "Username (Pembeli)": "2792cha",
+      "Kota/Kabupaten": "KAB. MAJALENGKA"
+    },
+    {
+      "No. Pesanan": "25081619R837XA",
+      "Waktu Pesanan Dibuat": "2025-08-16 19:00",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 0.0,
+      "Username (Pembeli)": "sriyuniarsih3006",
+      "Kota/Kabupaten": "KAB. INDRAMAYU"
+    },
+    {
+      "No. Pesanan": "2508161AVB2B9U",
+      "Waktu Pesanan Dibuat": "2025-08-16 19:20",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 77.95,
+      "Username (Pembeli)": "sriyuniarsih3006",
+      "Kota/Kabupaten": "KAB. INDRAMAYU"
+    },
+    {
+      "No. Pesanan": "2508173AT6T8DH",
+      "Waktu Pesanan Dibuat": "2025-08-17 14:24",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 0.0,
+      "Username (Pembeli)": "inespasaribu",
+      "Kota/Kabupaten": "KOTA MEDAN"
+    },
+    {
+      "No. Pesanan": "25081867TSW0GE",
+      "Waktu Pesanan Dibuat": "2025-08-18 18:09",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 0.0,
+      "Username (Pembeli)": "frizar",
+      "Kota/Kabupaten": "KOTA JAKARTA TIMUR"
+    },
+    {
+      "No. Pesanan": "2508186CCHDUKX",
+      "Waktu Pesanan Dibuat": "2025-08-18 19:31",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 0.0,
+      "Username (Pembeli)": "frizar",
+      "Kota/Kabupaten": "KOTA JAKARTA TIMUR"
+    },
+    {
+      "No. Pesanan": "2508197SG97WTY",
+      "Waktu Pesanan Dibuat": "2025-08-19 08:58",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 2,
+      "Total Pembayaran": 155.8,
+      "Username (Pembeli)": "rizkyamalia494",
+      "Kota/Kabupaten": "KOTA BOGOR"
+    },
+    {
+      "No. Pesanan": "2508198DY74HE2",
+      "Waktu Pesanan Dibuat": "2025-08-19 15:04",
+      "Nama Produk": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 119.35,
+      "Username (Pembeli)": "aishaanli_",
+      "Kota/Kabupaten": "KOTA JAKARTA TIMUR"
+    },
+    {
+      "No. Pesanan": "2508198DY74HE2",
+      "Waktu Pesanan Dibuat": "2025-08-19 15:04",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 119.35,
+      "Username (Pembeli)": "aishaanli_",
+      "Kota/Kabupaten": "KOTA JAKARTA TIMUR"
+    },
+    {
+      "No. Pesanan": "250821CGQTEWMK",
+      "Waktu Pesanan Dibuat": "2025-08-21 06:04",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 0.0,
+      "Username (Pembeli)": "toko_bundar",
+      "Kota/Kabupaten": "KAB. LAHAT"
+    },
+    {
+      "No. Pesanan": "250822EH84KT5Q",
+      "Waktu Pesanan Dibuat": "2025-08-22 01:19",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 76.5,
+      "Username (Pembeli)": "pasukanpemukul",
+      "Kota/Kabupaten": "KOTA JAKARTA TIMUR"
+    },
+    {
+      "No. Pesanan": "250825QJ27CT7D",
+      "Waktu Pesanan Dibuat": "2025-08-25 15:27",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 78.23,
+      "Username (Pembeli)": "abdul_niv",
+      "Kota/Kabupaten": "KOTA JAKARTA UTARA"
+    },
+    {
+      "No. Pesanan": "250825QU1JS0TA",
+      "Waktu Pesanan Dibuat": "2025-08-25 18:08",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 79.45,
+      "Username (Pembeli)": "conviden",
+      "Kota/Kabupaten": "KOTA PADANG PANJANG"
+    },
+    {
+      "No. Pesanan": "250825R6EEKGDQ",
+      "Waktu Pesanan Dibuat": "2025-08-25 21:32",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 10 pcs Palembang Asli SIZE MEDIUM Lenjer, Kulit & Telur",
+      "Nama Variasi": "Adaan + Kulit,Lenjer + Telur",
+      "Jumlah": 1,
+      "Total Pembayaran": 41.0,
+      "Username (Pembeli)": "hirayanti98",
+      "Kota/Kabupaten": "KAB. CIREBON"
+    },
+    {
+      "No. Pesanan": "250826SQY0GYMH",
+      "Waktu Pesanan Dibuat": "2025-08-26 12:18",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 112.65,
+      "Username (Pembeli)": "anariopardede",
+      "Kota/Kabupaten": "KOTA BANDA ACEH"
+    },
+    {
+      "No. Pesanan": "250826SQY0GYMH",
+      "Waktu Pesanan Dibuat": "2025-08-26 12:18",
+      "Nama Produk": "Sterofoam Extra",
+      "Nama Variasi": "5 Liter,10 Literr",
+      "Jumlah": 1,
+      "Total Pembayaran": 112.65,
+      "Username (Pembeli)": "anariopardede",
+      "Kota/Kabupaten": "KOTA BANDA ACEH"
+    },
+    {
+      "No. Pesanan": "250827VFSY1QXR",
+      "Waktu Pesanan Dibuat": "2025-08-27 14:30",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 78.95,
+      "Username (Pembeli)": "usmanapandi",
+      "Kota/Kabupaten": "KAB. GARUT"
+    },
+    {
+      "No. Pesanan": "25070111655B3B",
+      "Waktu Pesanan Dibuat": "2025-07-01 09:20",
+      "Nama Produk": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 2,
+      "Total Pembayaran": 90.54,
+      "Username (Pembeli)": "coolfootwear.id10",
+      "Kota/Kabupaten": "KAB. BOGOR"
+    },
+    {
+      "No. Pesanan": "2507011NXHFBEX",
+      "Waktu Pesanan Dibuat": "2025-07-01 15:32",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 10 pcs Palembang Asli SIZE MEDIUM Lenjer, Kulit & Telur",
+      "Nama Variasi": "Adaan + Kulit,Lenjer + Telur",
+      "Jumlah": 1,
+      "Total Pembayaran": 0.0,
+      "Username (Pembeli)": "devandayunita",
+      "Kota/Kabupaten": "KAB. KEBUMEN"
+    },
+    {
+      "No. Pesanan": "2507011NXHFBEX",
+      "Waktu Pesanan Dibuat": "2025-07-01 15:32",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 0.0,
+      "Username (Pembeli)": "devandayunita",
+      "Kota/Kabupaten": "KAB. KEBUMEN"
+    },
+    {
+      "No. Pesanan": "2507023BC16E5J",
+      "Waktu Pesanan Dibuat": "2025-07-02 07:28",
+      "Nama Produk": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 46.9,
+      "Username (Pembeli)": "indiqotrunadaa",
+      "Kota/Kabupaten": "KAB. INDRAMAYU"
+    },
+    {
+      "No. Pesanan": "2507035TF3SXJ9",
+      "Waktu Pesanan Dibuat": "2025-07-03 07:03",
+      "Nama Produk": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 2,
+      "Total Pembayaran": 92.0,
+      "Username (Pembeli)": "8k1x997mib",
+      "Kota/Kabupaten": "KOTA PADANG"
+    },
+    {
+      "No. Pesanan": "2507049W7XNXCV",
+      "Waktu Pesanan Dibuat": "2025-07-04 22:04",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 82.5,
+      "Username (Pembeli)": "butik_jewel",
+      "Kota/Kabupaten": "KOTA TANGERANG SELATAN"
+    },
+    {
+      "No. Pesanan": "250705C8TF946M",
+      "Waktu Pesanan Dibuat": "2025-07-05 20:36",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 2,
+      "Total Pembayaran": 182.08,
+      "Username (Pembeli)": "jopiriyah",
+      "Kota/Kabupaten": "KOTA BEKASI"
+    },
+    {
+      "No. Pesanan": "250705C8XF2RW7",
+      "Waktu Pesanan Dibuat": "2025-07-05 20:38",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 89.0,
+      "Username (Pembeli)": "jopiriyah",
+      "Kota/Kabupaten": "KOTA BOGOR"
+    },
+    {
+      "No. Pesanan": "250705C9300R50",
+      "Waktu Pesanan Dibuat": "2025-07-05 20:41",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 2,
+      "Total Pembayaran": 173.5,
+      "Username (Pembeli)": "jopiriyah",
+      "Kota/Kabupaten": "KAB. LAHAT"
+    },
+    {
+      "No. Pesanan": "250706DXFYHTW4",
+      "Waktu Pesanan Dibuat": "2025-07-06 12:37",
+      "Nama Produk": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 46.064,
+      "Username (Pembeli)": "setiawaty90",
+      "Kota/Kabupaten": "KOTA JAKARTA BARAT"
+    },
+    {
+      "No. Pesanan": "250706EJ6M7EBV",
+      "Waktu Pesanan Dibuat": "2025-07-06 18:29",
+      "Nama Produk": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 46.9,
+      "Username (Pembeli)": "indiqotrunadaa",
+      "Kota/Kabupaten": "KAB. INDRAMAYU"
+    },
+    {
+      "No. Pesanan": "250707F5MHFNG4",
+      "Waktu Pesanan Dibuat": "2025-07-07 00:17",
+      "Nama Produk": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MEDIUM Lenjer, Kulit & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 177.365,
+      "Username (Pembeli)": "ajengayutiii",
+      "Kota/Kabupaten": "KOTA BANJARMASIN"
+    },
+    {
+      "No. Pesanan": "250707F5MHFNG4",
+      "Waktu Pesanan Dibuat": "2025-07-07 00:17",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 177.365,
+      "Username (Pembeli)": "ajengayutiii",
+      "Kota/Kabupaten": "KOTA BANJARMASIN"
+    },
+    {
+      "No. Pesanan": "250711TW4BQG3V",
+      "Waktu Pesanan Dibuat": "2025-07-11 16:17",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 0.0,
+      "Username (Pembeli)": "dwizahrotunamalia",
+      "Kota/Kabupaten": "KOTA PRABUMULIH"
+    },
+    {
+      "No. Pesanan": "250712005585TN",
+      "Waktu Pesanan Dibuat": "2025-07-12 13:16",
+      "Nama Produk": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 87.4,
+      "Username (Pembeli)": "hamidahsuriyani",
+      "Kota/Kabupaten": "KOTA PEKANBARU"
+    },
+    {
+      "No. Pesanan": "250712005585TN",
+      "Waktu Pesanan Dibuat": "2025-07-12 13:16",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 10 pcs Palembang Asli SIZE MEDIUM Lenjer, Kulit & Telur",
+      "Nama Variasi": "Adaan + Kulit,Lenjer + Telur",
+      "Jumlah": 1,
+      "Total Pembayaran": 87.4,
+      "Username (Pembeli)": "hamidahsuriyani",
+      "Kota/Kabupaten": "KOTA PEKANBARU"
+    },
+    {
+      "No. Pesanan": "2507132EFCDXDS",
+      "Waktu Pesanan Dibuat": "2025-07-13 12:37",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 89.0,
+      "Username (Pembeli)": "ahsanimulia",
+      "Kota/Kabupaten": "KAB. PARIGI MOUTONG"
+    },
+    {
+      "No. Pesanan": "2507132QU7BCAV",
+      "Waktu Pesanan Dibuat": "2025-07-13 15:25",
+      "Nama Produk": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 0.0,
+      "Username (Pembeli)": "alfatah1983",
+      "Kota/Kabupaten": "KOTA PALEMBANG"
+    },
+    {
+      "No. Pesanan": "2507132RCGHS0S",
+      "Waktu Pesanan Dibuat": "2025-07-13 15:35",
+      "Nama Produk": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 2,
+      "Total Pembayaran": 105.877,
+      "Username (Pembeli)": "alfatah1983",
+      "Kota/Kabupaten": "KOTA PALEMBANG"
+    },
+    {
+      "No. Pesanan": "2507132RWYB5HJ",
+      "Waktu Pesanan Dibuat": "2025-07-13 15:44",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 87.5,
+      "Username (Pembeli)": "dianomayasari",
+      "Kota/Kabupaten": "KAB. KARAWANG"
+    },
+    {
+      "No. Pesanan": "2507145CS6G0X1",
+      "Waktu Pesanan Dibuat": "2025-07-14 16:45",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 10 pcs Palembang Asli SIZE MEDIUM Lenjer, Kulit & Telur",
+      "Nama Variasi": "Adaan + Kulit,Lenjer + Telur",
+      "Jumlah": 1,
+      "Total Pembayaran": 53.5,
+      "Username (Pembeli)": "c9jq4g1s_3",
+      "Kota/Kabupaten": "KOTA TASIKMALAYA"
+    },
+    {
+      "No. Pesanan": "25071575WBNR7J",
+      "Waktu Pesanan Dibuat": "2025-07-15 09:47",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 3,
+      "Total Pembayaran": 258.4,
+      "Username (Pembeli)": "anzahli",
+      "Kota/Kabupaten": "KAB. KEDIRI"
+    },
+    {
+      "No. Pesanan": "2507157HKD9TT3",
+      "Waktu Pesanan Dibuat": "2025-07-15 13:17",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 2,
+      "Total Pembayaran": 172.9,
+      "Username (Pembeli)": "pv1ctoi1ty",
+      "Kota/Kabupaten": "KAB. BEKASI"
+    },
+    {
+      "No. Pesanan": "2507157KHHQ6E1",
+      "Waktu Pesanan Dibuat": "2025-07-15 13:51",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 2,
+      "Total Pembayaran": 172.9,
+      "Username (Pembeli)": "pv1ctoi1ty",
+      "Kota/Kabupaten": "KAB. BEKASI"
+    },
+    {
+      "No. Pesanan": "250716A6YXRGKE",
+      "Waktu Pesanan Dibuat": "2025-07-16 14:45",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 5,
+      "Total Pembayaran": 385.75,
+      "Username (Pembeli)": "muhamadnhani",
+      "Kota/Kabupaten": "KOTA JAKARTA TIMUR"
+    },
+    {
+      "No. Pesanan": "250717BD8G8UWW",
+      "Waktu Pesanan Dibuat": "2025-07-17 02:10",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 3,
+      "Total Pembayaran": 337.695,
+      "Username (Pembeli)": "mds121220",
+      "Kota/Kabupaten": "KAB. GORONTALO UTARA"
+    },
+    {
+      "No. Pesanan": "250717C1CN0B4M",
+      "Waktu Pesanan Dibuat": "2025-07-17 08:10",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 77.562,
+      "Username (Pembeli)": "pujiasari",
+      "Kota/Kabupaten": "KAB. BANDUNG"
+    },
+    {
+      "No. Pesanan": "250719J2F9NQ95",
+      "Waktu Pesanan Dibuat": "2025-07-19 17:45",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 2,
+      "Total Pembayaran": 178.33,
+      "Username (Pembeli)": "mettaiuzha81",
+      "Kota/Kabupaten": "KAB. CILACAP"
+    },
+    {
+      "No. Pesanan": "250720JV3Y0BPA",
+      "Waktu Pesanan Dibuat": "2025-07-20 01:24",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 3,
+      "Total Pembayaran": 246.424,
+      "Username (Pembeli)": "nurisadida",
+      "Kota/Kabupaten": "KOTA JAKARTA PUSAT"
+    },
+    {
+      "No. Pesanan": "250720MMCK3MAM",
+      "Waktu Pesanan Dibuat": "2025-07-20 18:11",
+      "Nama Produk": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 2,
+      "Total Pembayaran": 83.0,
+      "Username (Pembeli)": "skipjacktuns",
+      "Kota/Kabupaten": "KOTA BANDUNG"
+    },
+    {
+      "No. Pesanan": "250722R8MJHV7Q",
+      "Waktu Pesanan Dibuat": "2025-07-22 04:51",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 10 pcs Palembang Asli SIZE MEDIUM Lenjer, Kulit & Telur",
+      "Nama Variasi": "Adaan + Kulit,Lenjer + Telur",
+      "Jumlah": 1,
+      "Total Pembayaran": 135.98,
+      "Username (Pembeli)": "mrshenderson24",
+      "Kota/Kabupaten": "KOTA TANGERANG"
+    },
+    {
+      "No. Pesanan": "250722R8MJHV7Q",
+      "Waktu Pesanan Dibuat": "2025-07-22 04:51",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 135.98,
+      "Username (Pembeli)": "mrshenderson24",
+      "Kota/Kabupaten": "KOTA TANGERANG"
+    },
+    {
+      "No. Pesanan": "250723TB3AQKW2",
+      "Waktu Pesanan Dibuat": "2025-07-23 00:41",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 87.5,
+      "Username (Pembeli)": "hamidahprayulia9",
+      "Kota/Kabupaten": "KOTA BATU"
+    },
+    {
+      "No. Pesanan": "2507240E5G83Q2",
+      "Waktu Pesanan Dibuat": "2025-07-24 07:13",
+      "Nama Produk": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 124.515,
+      "Username (Pembeli)": "idahidayatulk",
+      "Kota/Kabupaten": "KAB. BLITAR"
+    },
+    {
+      "No. Pesanan": "2507240E5G83Q2",
+      "Waktu Pesanan Dibuat": "2025-07-24 07:13",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 124.515,
+      "Username (Pembeli)": "idahidayatulk",
+      "Kota/Kabupaten": "KAB. BLITAR"
+    },
+    {
+      "No. Pesanan": "2507240HTFGHMR",
+      "Waktu Pesanan Dibuat": "2025-07-24 08:19",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 87.5,
+      "Username (Pembeli)": "r7s0na4d8_",
+      "Kota/Kabupaten": "KAB. GRESIK"
+    },
+    {
+      "No. Pesanan": "2507253S599JMK",
+      "Waktu Pesanan Dibuat": "2025-07-25 15:08",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 78.95,
+      "Username (Pembeli)": "nihaya87",
+      "Kota/Kabupaten": "KOTA BEKASI"
+    },
+    {
+      "No. Pesanan": "2507253W8G8H9X",
+      "Waktu Pesanan Dibuat": "2025-07-25 16:21",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 3,
+      "Total Pembayaran": 302.12,
+      "Username (Pembeli)": "iraoktari",
+      "Kota/Kabupaten": "KOTA BOGOR"
+    },
+    {
+      "No. Pesanan": "2507254BUGB3PM",
+      "Waktu Pesanan Dibuat": "2025-07-25 20:42",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 79.45,
+      "Username (Pembeli)": "modesta.matildaid",
+      "Kota/Kabupaten": "KAB. BANDUNG"
+    },
+    {
+      "No. Pesanan": "2507266XV1WFPD",
+      "Waktu Pesanan Dibuat": "2025-07-26 21:28",
+      "Nama Produk": "Pempek Kulit Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 102.0,
+      "Username (Pembeli)": "hamidahprayulia9",
+      "Kota/Kabupaten": "KOTA BATU"
+    },
+    {
+      "No. Pesanan": "2507278WBHVB2D",
+      "Waktu Pesanan Dibuat": "2025-07-27 16:06",
+      "Nama Produk": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 77.95,
+      "Username (Pembeli)": "dilaaaavv",
+      "Kota/Kabupaten": "KOTA PEKANBARU"
+    },
+    {
+      "No. Pesanan": "2507278WBHVB2D",
+      "Waktu Pesanan Dibuat": "2025-07-27 16:06",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 10 pcs Palembang Asli SIZE MEDIUM Lenjer, Kulit & Telur",
+      "Nama Variasi": "Adaan + Kulit,Lenjer + Telur",
+      "Jumlah": 1,
+      "Total Pembayaran": 77.95,
+      "Username (Pembeli)": "dilaaaavv",
+      "Kota/Kabupaten": "KOTA PEKANBARU"
+    },
+    {
+      "No. Pesanan": "250729EB96FGXU",
+      "Waktu Pesanan Dibuat": "2025-07-29 19:59",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 78.95,
+      "Username (Pembeli)": "nia2109_91",
+      "Kota/Kabupaten": "KOTA SEMARANG"
+    },
+    {
+      "No. Pesanan": "250730FX8NF4S8",
+      "Waktu Pesanan Dibuat": "2025-07-30 11:11",
+      "Nama Produk": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 0.0,
+      "Username (Pembeli)": "sherlywahyunii11",
+      "Kota/Kabupaten": "KOTA BINJAI"
+    },
+    {
+      "No. Pesanan": "250730FX8NF4S8",
+      "Waktu Pesanan Dibuat": "2025-07-30 11:11",
+      "Nama Produk": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MEDIUM Lenjer, Kulit & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 0.0,
+      "Username (Pembeli)": "sherlywahyunii11",
+      "Kota/Kabupaten": "KOTA BINJAI"
+    },
+    {
+      "No. Pesanan": "250730FX8NF4S8",
+      "Waktu Pesanan Dibuat": "2025-07-30 11:11",
+      "Nama Produk": "Sterofoam Extra",
+      "Nama Variasi": "5 Liter,10 Literr",
+      "Jumlah": 1,
+      "Total Pembayaran": 0.0,
+      "Username (Pembeli)": "sherlywahyunii11",
+      "Kota/Kabupaten": "KOTA BINJAI"
+    },
+    {
+      "No. Pesanan": "250730GFK3HYMJ",
+      "Waktu Pesanan Dibuat": "2025-07-30 16:21",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 83.08,
+      "Username (Pembeli)": "etikwulandari354",
+      "Kota/Kabupaten": "KAB. BOGOR"
+    },
+    {
+      "No. Pesanan": "250731JGJHA24T",
+      "Waktu Pesanan Dibuat": "2025-07-31 11:44",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 10 pcs Palembang Asli SIZE MEDIUM Lenjer, Kulit & Telur",
+      "Nama Variasi": "Adaan + Kulit,Lenjer + Telur",
+      "Jumlah": 2,
+      "Total Pembayaran": 0.0,
+      "Username (Pembeli)": "mamakei_",
+      "Kota/Kabupaten": "KAB. SUBANG"
+    },
+    {
+      "No. Pesanan": "250731JGJHA24T",
+      "Waktu Pesanan Dibuat": "2025-07-31 11:44",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 0.0,
+      "Username (Pembeli)": "mamakei_",
+      "Kota/Kabupaten": "KAB. SUBANG"
+    },
+    {
+      "No. Pesanan": "250731JKH2BRTA",
+      "Waktu Pesanan Dibuat": "2025-07-31 12:37",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 10 pcs Palembang Asli SIZE MEDIUM Lenjer, Kulit & Telur",
+      "Nama Variasi": "Adaan + Kulit,Lenjer + Telur",
+      "Jumlah": 2,
+      "Total Pembayaran": 171.74,
+      "Username (Pembeli)": "mamakei_",
+      "Kota/Kabupaten": "KAB. SUBANG"
+    },
+    {
+      "No. Pesanan": "250731JKH2BRTA",
+      "Waktu Pesanan Dibuat": "2025-07-31 12:37",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 171.74,
+      "Username (Pembeli)": "mamakei_",
+      "Kota/Kabupaten": "KAB. SUBANG"
+    },
+    {
+      "No. Pesanan": "250731JPH9Q4RP",
+      "Waktu Pesanan Dibuat": "2025-07-31 13:31",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 0.0,
+      "Username (Pembeli)": "muhammad_fakhri",
+      "Kota/Kabupaten": "KOTA PEKANBARU"
+    },
+    {
+      "No. Pesanan": "250731JSQSEQDD",
+      "Waktu Pesanan Dibuat": "2025-07-31 14:28",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 79.45,
+      "Username (Pembeli)": "rizkyalfit",
+      "Kota/Kabupaten": "KAB. INDRAMAYU"
+    },
+    {
+      "No. Pesanan": "250731JXESMS3N",
+      "Waktu Pesanan Dibuat": "2025-07-31 15:53",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 83.95,
+      "Username (Pembeli)": "ulan2001",
+      "Kota/Kabupaten": "KOTA PALEMBANG"
+    },
+    {
+      "No. Pesanan": "250604MY5A88M7",
+      "Waktu Pesanan Dibuat": "2025-06-04 14:17",
+      "Nama Produk": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 4,
+      "Total Pembayaran": 0.0,
+      "Username (Pembeli)": "iindaah0806",
+      "Kota/Kabupaten": "KAB. INDRAMAYU"
+    },
+    {
+      "No. Pesanan": "250604MY5A88M7",
+      "Waktu Pesanan Dibuat": "2025-06-04 14:17",
+      "Nama Produk": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MEDIUM Lenjer, Kulit & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 0.0,
+      "Username (Pembeli)": "iindaah0806",
+      "Kota/Kabupaten": "KAB. INDRAMAYU"
+    },
+    {
+      "No. Pesanan": "250604MY5A88M7",
+      "Waktu Pesanan Dibuat": "2025-06-04 14:17",
+      "Nama Produk": "Pempek Kulit Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 0.0,
+      "Username (Pembeli)": "iindaah0806",
+      "Kota/Kabupaten": "KAB. INDRAMAYU"
+    },
+    {
+      "No. Pesanan": "250606SWT1SRTC",
+      "Waktu Pesanan Dibuat": "2025-06-06 13:36",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 10 pcs Palembang Asli SIZE MEDIUM Lenjer, Kulit & Telur",
+      "Nama Variasi": "Adaan + Kulit,Lenjer + Telur",
+      "Jumlah": 5,
+      "Total Pembayaran": 208.0,
+      "Username (Pembeli)": "iindaah0806",
+      "Kota/Kabupaten": "KAB. INDRAMAYU"
+    },
+    {
+      "No. Pesanan": "2506106P7SBSD4",
+      "Waktu Pesanan Dibuat": "2025-06-10 11:47",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 10 pcs Palembang Asli SIZE MEDIUM Lenjer, Kulit & Telur",
+      "Nama Variasi": "Adaan + Kulit,Lenjer + Telur",
+      "Jumlah": 1,
+      "Total Pembayaran": 139.1,
+      "Username (Pembeli)": "wahyuputrawijaya24",
+      "Kota/Kabupaten": "KOTA BANDUNG"
+    },
+    {
+      "No. Pesanan": "2506106P7SBSD4",
+      "Waktu Pesanan Dibuat": "2025-06-10 11:47",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 139.1,
+      "Username (Pembeli)": "wahyuputrawijaya24",
+      "Kota/Kabupaten": "KOTA BANDUNG"
+    },
+    {
+      "No. Pesanan": "2506118Q44TCG1",
+      "Waktu Pesanan Dibuat": "2025-06-11 07:08",
+      "Nama Produk": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 52.0,
+      "Username (Pembeli)": "6wl5cagfw3",
+      "Kota/Kabupaten": "KAB. GROBOGAN"
+    },
+    {
+      "No. Pesanan": "250616PR28PNYD",
+      "Waktu Pesanan Dibuat": "2025-06-16 21:02",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 234.6,
+      "Username (Pembeli)": "4brqmw4h1v",
+      "Kota/Kabupaten": "KAB. SITUBONDO"
+    },
+    {
+      "No. Pesanan": "250616PR28PNYD",
+      "Waktu Pesanan Dibuat": "2025-06-16 21:02",
+      "Nama Produk": "Pempek Kulit Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 234.6,
+      "Username (Pembeli)": "4brqmw4h1v",
+      "Kota/Kabupaten": "KAB. SITUBONDO"
+    },
+    {
+      "No. Pesanan": "250619W20YU5PP",
+      "Waktu Pesanan Dibuat": "2025-06-19 09:16",
+      "Nama Produk": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 138.2,
+      "Username (Pembeli)": "nani29",
+      "Kota/Kabupaten": "KOTA BANDA ACEH"
+    },
+    {
+      "No. Pesanan": "250619W20YU5PP",
+      "Waktu Pesanan Dibuat": "2025-06-19 09:16",
+      "Nama Produk": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MEDIUM Lenjer, Kulit & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 138.2,
+      "Username (Pembeli)": "nani29",
+      "Kota/Kabupaten": "KOTA BANDA ACEH"
+    },
+    {
+      "No. Pesanan": "250624BNPWWC1J",
+      "Waktu Pesanan Dibuat": "2025-06-24 01:07",
+      "Nama Produk": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 2,
+      "Total Pembayaran": 192.405,
+      "Username (Pembeli)": "pebriinkalestari",
+      "Kota/Kabupaten": "KAB. TUBAN"
+    },
+    {
+      "No. Pesanan": "250624BNPWWC1J",
+      "Waktu Pesanan Dibuat": "2025-06-24 01:07",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 192.405,
+      "Username (Pembeli)": "pebriinkalestari",
+      "Kota/Kabupaten": "KAB. TUBAN"
+    },
+    {
+      "No. Pesanan": "250629SAHWG9B8",
+      "Waktu Pesanan Dibuat": "2025-06-29 11:25",
+      "Nama Produk": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MEDIUM Lenjer, Kulit & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 92.0,
+      "Username (Pembeli)": "6wl5cagfw3",
+      "Kota/Kabupaten": "KAB. GROBOGAN"
+    },
+    {
+      "No. Pesanan": "250630V924HN2U",
+      "Waktu Pesanan Dibuat": "2025-06-30 15:36",
+      "Nama Produk": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 0.0,
+      "Username (Pembeli)": "muhamadsahid433",
+      "Kota/Kabupaten": "KAB. GUNUNG KIDUL"
+    },
+    {
+      "No. Pesanan": "2505065AC56Y06",
+      "Waktu Pesanan Dibuat": "2025-05-06 05:22",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 0.0,
+      "Username (Pembeli)": "yudiputra91",
+      "Kota/Kabupaten": "KAB. SERANG"
+    },
+    {
+      "No. Pesanan": "250507894FNF0S",
+      "Waktu Pesanan Dibuat": "2025-05-07 09:38",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 97.0,
+      "Username (Pembeli)": "wulandarigalicom",
+      "Kota/Kabupaten": "KOTA JAKARTA PUSAT"
+    },
+    {
+      "No. Pesanan": "2505078FS638RB",
+      "Waktu Pesanan Dibuat": "2025-05-07 11:37",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 104.0,
+      "Username (Pembeli)": "rismasari948",
+      "Kota/Kabupaten": "KAB. INDRAGIRI HULU"
+    },
+    {
+      "No. Pesanan": "250515UXSJAB2Y",
+      "Waktu Pesanan Dibuat": "2025-05-15 05:26",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 97.0,
+      "Username (Pembeli)": "rinanda07",
+      "Kota/Kabupaten": "KAB. CIREBON"
+    },
+    {
+      "No. Pesanan": "250521FK7BMKT6",
+      "Waktu Pesanan Dibuat": "2025-05-21 21:14",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 103.0,
+      "Username (Pembeli)": "bashbrunei",
+      "Kota/Kabupaten": "KAB. SIDOARJO"
+    },
+    {
+      "No. Pesanan": "250521FKSM7XBN",
+      "Waktu Pesanan Dibuat": "2025-05-21 21:24",
+      "Nama Produk": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 5,
+      "Total Pembayaran": 294.4,
+      "Username (Pembeli)": "arifw_19",
+      "Kota/Kabupaten": "KAB. KEBUMEN"
+    },
+    {
+      "No. Pesanan": "250526UCGBW9M0",
+      "Waktu Pesanan Dibuat": "2025-05-26 13:45",
+      "Nama Produk": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 2,
+      "Total Pembayaran": 385.4,
+      "Username (Pembeli)": "shintaiskandar77",
+      "Kota/Kabupaten": "KAB. TANGERANG"
+    },
+    {
+      "No. Pesanan": "250526UCGBW9M0",
+      "Waktu Pesanan Dibuat": "2025-05-26 13:45",
+      "Nama Produk": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MEDIUM Lenjer, Kulit & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 2,
+      "Total Pembayaran": 385.4,
+      "Username (Pembeli)": "shintaiskandar77",
+      "Kota/Kabupaten": "KAB. TANGERANG"
+    },
+    {
+      "No. Pesanan": "250526UCGBW9M0",
+      "Waktu Pesanan Dibuat": "2025-05-26 13:45",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 10 pcs Palembang Asli SIZE MEDIUM Lenjer, Kulit & Telur",
+      "Nama Variasi": "Adaan + Kulit,Lenjer + Telur",
+      "Jumlah": 2,
+      "Total Pembayaran": 385.4,
+      "Username (Pembeli)": "shintaiskandar77",
+      "Kota/Kabupaten": "KAB. TANGERANG"
+    },
+    {
+      "No. Pesanan": "250531B5F7P0UC",
+      "Waktu Pesanan Dibuat": "2025-05-31 16:43",
+      "Nama Produk": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 2,
+      "Total Pembayaran": 0.0,
+      "Username (Pembeli)": "fajariadewikurnia",
+      "Kota/Kabupaten": "KAB. TULUNGAGUNG"
+    },
+    {
+      "No. Pesanan": "250531B5KABJR6",
+      "Waktu Pesanan Dibuat": "2025-05-31 16:46",
+      "Nama Produk": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 2,
+      "Total Pembayaran": 116.5,
+      "Username (Pembeli)": "fajariadewikurnia",
+      "Kota/Kabupaten": "KAB. TULUNGAGUNG"
+    },
+    {
+      "No. Pesanan": "2504147K92UFAR",
+      "Waktu Pesanan Dibuat": "2025-04-13 23:33",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 0.0,
+      "Username (Pembeli)": "sarmila2209",
+      "Kota/Kabupaten": "KOTA PALEMBANG"
+    },
+    {
+      "No. Pesanan": "250417G74RSU5R",
+      "Waktu Pesanan Dibuat": "2025-04-17 09:50",
+      "Nama Produk": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MEDIUM Lenjer, Kulit & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 0.0,
+      "Username (Pembeli)": "_ayrnt",
+      "Kota/Kabupaten": "KOTA PALEMBANG"
+    },
+    {
+      "No. Pesanan": "250418JT5PRU6N",
+      "Waktu Pesanan Dibuat": "2025-04-18 10:36",
+      "Nama Produk": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MEDIUM Lenjer, Kulit & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 91.9,
+      "Username (Pembeli)": "_ayrnt",
+      "Kota/Kabupaten": "KOTA PALEMBANG"
+    },
+    {
+      "No. Pesanan": "250430MXAB5HEP",
+      "Waktu Pesanan Dibuat": "2025-04-30 20:42",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 2,
+      "Total Pembayaran": 213.5,
+      "Username (Pembeli)": "rezkyeka37",
+      "Kota/Kabupaten": "KAB. NGANJUK"
+    },
+    {
+      "No. Pesanan": "250301EBN204YH",
+      "Waktu Pesanan Dibuat": "2025-03-01 08:59",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 96.9,
+      "Username (Pembeli)": "luthfiah.kh",
+      "Kota/Kabupaten": "KOTA JAKARTA UTARA"
+    },
+    {
+      "No. Pesanan": "250302H2UTVQSV",
+      "Waktu Pesanan Dibuat": "2025-03-02 10:59",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 2,
+      "Total Pembayaran": 192.0,
+      "Username (Pembeli)": "jusmaimi",
+      "Kota/Kabupaten": "KOTA PALEMBANG"
+    },
+    {
+      "No. Pesanan": "250302HN74XEA7",
+      "Waktu Pesanan Dibuat": "2025-03-02 16:28",
+      "Nama Produk": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 2,
+      "Total Pembayaran": 402.0,
+      "Username (Pembeli)": "sultanmalikyuzakir",
+      "Kota/Kabupaten": "KOTA SEMARANG"
+    },
+    {
+      "No. Pesanan": "250302HN74XEA7",
+      "Waktu Pesanan Dibuat": "2025-03-02 16:28",
+      "Nama Produk": "Cuko Pempek Palembang 150 ML Gula batok asli Linggau",
+      "Nama Variasi": "",
+      "Jumlah": 3,
+      "Total Pembayaran": 402.0,
+      "Username (Pembeli)": "sultanmalikyuzakir",
+      "Kota/Kabupaten": "KOTA SEMARANG"
+    },
+    {
+      "No. Pesanan": "250302HN74XEA7",
+      "Waktu Pesanan Dibuat": "2025-03-02 16:28",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 2,
+      "Total Pembayaran": 402.0,
+      "Username (Pembeli)": "sultanmalikyuzakir",
+      "Kota/Kabupaten": "KOTA SEMARANG"
+    },
+    {
+      "No. Pesanan": "250302HQRDMQ4P",
+      "Waktu Pesanan Dibuat": "2025-03-02 17:13",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 97.0,
+      "Username (Pembeli)": "soenarto04",
+      "Kota/Kabupaten": "KOTA JAKARTA BARAT"
+    },
+    {
+      "No. Pesanan": "250303KXHRBKSG",
+      "Waktu Pesanan Dibuat": "2025-03-03 14:20",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 0.0,
+      "Username (Pembeli)": "ha5_ridho",
+      "Kota/Kabupaten": "KAB. BANYUASIN"
+    },
+    {
+      "No. Pesanan": "250303KXKCSTUK",
+      "Waktu Pesanan Dibuat": "2025-03-03 14:21",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 96.9,
+      "Username (Pembeli)": "ha5_ridho",
+      "Kota/Kabupaten": "KOTA BEKASI"
+    },
+    {
+      "No. Pesanan": "250304P4QR2HCT",
+      "Waktu Pesanan Dibuat": "2025-03-04 11:16",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 87.5,
+      "Username (Pembeli)": "syakurhalim",
+      "Kota/Kabupaten": "KOTA DEPOK"
+    },
+    {
+      "No. Pesanan": "250304P7EAJ14E",
+      "Waktu Pesanan Dibuat": "2025-03-04 12:05",
+      "Nama Produk": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 46.9,
+      "Username (Pembeli)": "vas8_a3jxx",
+      "Kota/Kabupaten": "KOTA PALEMBANG"
+    },
+    {
+      "No. Pesanan": "250304PADBS2BK",
+      "Waktu Pesanan Dibuat": "2025-03-04 12:58",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 87.4,
+      "Username (Pembeli)": "basuki.24",
+      "Kota/Kabupaten": "KOTA LUBUK LINGGAU"
+    },
+    {
+      "No. Pesanan": "250304Q23TU675",
+      "Waktu Pesanan Dibuat": "2025-03-04 20:02",
+      "Nama Produk": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MEDIUM Lenjer, Kulit & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 2,
+      "Total Pembayaran": 333.855,
+      "Username (Pembeli)": "mpjafra",
+      "Kota/Kabupaten": "KAB. SIDOARJO"
+    },
+    {
+      "No. Pesanan": "250304Q23TU675",
+      "Waktu Pesanan Dibuat": "2025-03-04 20:02",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 2,
+      "Total Pembayaran": 333.855,
+      "Username (Pembeli)": "mpjafra",
+      "Kota/Kabupaten": "KAB. SIDOARJO"
+    },
+    {
+      "No. Pesanan": "250305RWP2NPK6",
+      "Waktu Pesanan Dibuat": "2025-03-05 13:48",
+      "Nama Produk": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 47.8,
+      "Username (Pembeli)": "cecennursaeni189",
+      "Kota/Kabupaten": "KAB. LAMPUNG BARAT"
+    },
+    {
+      "No. Pesanan": "250305SFFN9NUE",
+      "Waktu Pesanan Dibuat": "2025-03-05 19:07",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 89.92,
+      "Username (Pembeli)": "iswandithina",
+      "Kota/Kabupaten": "KOTA PONTIANAK"
+    },
+    {
+      "No. Pesanan": "250306TTA15QA5",
+      "Waktu Pesanan Dibuat": "2025-03-06 07:53",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 87.5,
+      "Username (Pembeli)": "susantigustri",
+      "Kota/Kabupaten": "KOTA BATAM"
+    },
+    {
+      "No. Pesanan": "250306U77TVEFF",
+      "Waktu Pesanan Dibuat": "2025-03-06 11:44",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 86.5,
+      "Username (Pembeli)": "mraflymaretha",
+      "Kota/Kabupaten": "KAB. MUSI BANYUASIN"
+    },
+    {
+      "No. Pesanan": "250306UD1WMCS6",
+      "Waktu Pesanan Dibuat": "2025-03-06 13:28",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 90.5,
+      "Username (Pembeli)": "alizah95",
+      "Kota/Kabupaten": "KAB. CIREBON"
+    },
+    {
+      "No. Pesanan": "250306UQ923XRN",
+      "Waktu Pesanan Dibuat": "2025-03-06 16:31",
+      "Nama Produk": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MEDIUM Lenjer, Kulit & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 0.0,
+      "Username (Pembeli)": "zubairyunus27",
+      "Kota/Kabupaten": "KOTA MANADO"
+    },
+    {
+      "No. Pesanan": "250306UTEN6X74",
+      "Waktu Pesanan Dibuat": "2025-03-06 17:28",
+      "Nama Produk": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 46.9,
+      "Username (Pembeli)": "allmahijab",
+      "Kota/Kabupaten": "KAB. MUSI BANYUASIN"
+    },
+    {
+      "No. Pesanan": "250307W23PK4GQ",
+      "Waktu Pesanan Dibuat": "2025-03-07 05:18",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 1.0,
+      "Username (Pembeli)": "jordy.andrianta",
+      "Kota/Kabupaten": "KAB. PADANG LAWAS UTARA"
+    },
+    {
+      "No. Pesanan": "2503070KT4GQY6",
+      "Waktu Pesanan Dibuat": "2025-03-07 11:34",
+      "Nama Produk": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 0.0,
+      "Username (Pembeli)": "sulis2796",
+      "Kota/Kabupaten": "KOTA JAMBI"
+    },
+    {
+      "No. Pesanan": "25030836NH4NMB",
+      "Waktu Pesanan Dibuat": "2025-03-08 12:17",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 0.0,
+      "Username (Pembeli)": "ukhtifadhilah411",
+      "Kota/Kabupaten": "KOTA JAMBI"
+    },
+    {
+      "No. Pesanan": "25030836VYHJEC",
+      "Waktu Pesanan Dibuat": "2025-03-08 12:21",
+      "Nama Produk": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 55.4,
+      "Username (Pembeli)": "sulis2796",
+      "Kota/Kabupaten": "KOTA JAMBI"
+    },
+    {
+      "No. Pesanan": "2503083H09W7ED",
+      "Waktu Pesanan Dibuat": "2025-03-08 15:22",
+      "Nama Produk": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 47.9,
+      "Username (Pembeli)": "emadesiati",
+      "Kota/Kabupaten": "KAB. BOGOR"
+    },
+    {
+      "No. Pesanan": "25030847UBHTGT",
+      "Waktu Pesanan Dibuat": "2025-03-08 22:11",
+      "Nama Produk": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 58.0,
+      "Username (Pembeli)": "marsyaamirahfizka",
+      "Kota/Kabupaten": "KOTA PEKANBARU"
+    },
+    {
+      "No. Pesanan": "2503095SFD2G8U",
+      "Waktu Pesanan Dibuat": "2025-03-09 12:59",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 89.0,
+      "Username (Pembeli)": "ukhtifadhilah411",
+      "Kota/Kabupaten": "KOTA JAMBI"
+    },
+    {
+      "No. Pesanan": "2503096394D14N",
+      "Waktu Pesanan Dibuat": "2025-03-09 15:54",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 10 pcs Palembang Asli SIZE MEDIUM Lenjer, Kulit & Telur",
+      "Nama Variasi": "Adaan + Kulit,Lenjer + Telur",
+      "Jumlah": 1,
+      "Total Pembayaran": 42.4,
+      "Username (Pembeli)": "rahmawbiru23",
+      "Kota/Kabupaten": "KOTA BANDUNG"
+    },
+    {
+      "No. Pesanan": "2503096H7U1MT9",
+      "Waktu Pesanan Dibuat": "2025-03-09 20:04",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 0.0,
+      "Username (Pembeli)": "seli_aryuni",
+      "Kota/Kabupaten": "KAB. CIREBON"
+    },
+    {
+      "No. Pesanan": "2503096HEGKYC0",
+      "Waktu Pesanan Dibuat": "2025-03-09 20:08",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 90.5,
+      "Username (Pembeli)": "seli_aryuni",
+      "Kota/Kabupaten": "KAB. CIREBON"
+    },
+    {
+      "No. Pesanan": "2503108EFDXRMD",
+      "Waktu Pesanan Dibuat": "2025-03-10 14:20",
+      "Nama Produk": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 45.777,
+      "Username (Pembeli)": "dhearizkyayupalupi",
+      "Kota/Kabupaten": "KAB. OGAN KOMERING ULU"
+    },
+    {
+      "No. Pesanan": "250311AM2QR2GM",
+      "Waktu Pesanan Dibuat": "2025-03-11 11:06",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 3,
+      "Total Pembayaran": 288.495,
+      "Username (Pembeli)": "maratulluthfiyah",
+      "Kota/Kabupaten": "KOTA DEPOK"
+    },
+    {
+      "No. Pesanan": "250311BPDA30UT",
+      "Waktu Pesanan Dibuat": "2025-03-11 21:20",
+      "Nama Produk": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 4,
+      "Total Pembayaran": 0.0,
+      "Username (Pembeli)": "xtyoh50pdn",
+      "Kota/Kabupaten": "KAB. SUKABUMI"
+    },
+    {
+      "No. Pesanan": "250312DE65NSF0",
+      "Waktu Pesanan Dibuat": "2025-03-12 13:58",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 0.0,
+      "Username (Pembeli)": "6_glbga2vv",
+      "Kota/Kabupaten": "KAB. KUANTAN SINGINGI"
+    },
+    {
+      "No. Pesanan": "250315N3JDVX64",
+      "Waktu Pesanan Dibuat": "2025-03-15 15:09",
+      "Nama Produk": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 2,
+      "Total Pembayaran": 107.87,
+      "Username (Pembeli)": "lionflowerr",
+      "Kota/Kabupaten": "KAB. BANYUMAS"
+    },
+    {
+      "No. Pesanan": "250316Q2F9YJSS",
+      "Waktu Pesanan Dibuat": "2025-03-16 09:55",
+      "Nama Produk": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 51.9,
+      "Username (Pembeli)": "rafikaqibtiatun",
+      "Kota/Kabupaten": "KOTA PALEMBANG"
+    },
+    {
+      "No. Pesanan": "250317S2JJDKA3",
+      "Waktu Pesanan Dibuat": "2025-03-17 05:02",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 113.0,
+      "Username (Pembeli)": "secondzious",
+      "Kota/Kabupaten": "KAB. KAMPAR"
+    },
+    {
+      "No. Pesanan": "250317SM1KDM05",
+      "Waktu Pesanan Dibuat": "2025-03-17 10:15",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 99.8,
+      "Username (Pembeli)": "masayuzyvaaziza31",
+      "Kota/Kabupaten": "KOTA BATAM"
+    },
+    {
+      "No. Pesanan": "250317T6XK1G34",
+      "Waktu Pesanan Dibuat": "2025-03-17 15:53",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 89.911,
+      "Username (Pembeli)": "sisckawati",
+      "Kota/Kabupaten": "KOTA JAKARTA UTARA"
+    },
+    {
+      "No. Pesanan": "250317TFBQNG6P",
+      "Waktu Pesanan Dibuat": "2025-03-17 18:24",
+      "Nama Produk": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 47.8,
+      "Username (Pembeli)": "mauzamelvi",
+      "Kota/Kabupaten": "KAB. MUSI RAWAS UTARA"
+    },
+    {
+      "No. Pesanan": "250317TUPE36FP",
+      "Waktu Pesanan Dibuat": "2025-03-17 22:04",
+      "Nama Produk": "Cuko Pempek Palembang 150 ML Gula batok asli Linggau",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 18.528,
+      "Username (Pembeli)": "dhearizkyayupalupi",
+      "Kota/Kabupaten": "KAB. OGAN KOMERING ULU"
+    },
+    {
+      "No. Pesanan": "250318UNY3BXD7",
+      "Waktu Pesanan Dibuat": "2025-03-18 05:55",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 2,
+      "Total Pembayaran": 173.562,
+      "Username (Pembeli)": "dwiraisha",
+      "Kota/Kabupaten": "KOTA PEKANBARU"
+    },
+    {
+      "No. Pesanan": "250318VBSEV4C4",
+      "Waktu Pesanan Dibuat": "2025-03-18 12:25",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 10 pcs Palembang Asli SIZE MEDIUM Lenjer, Kulit & Telur",
+      "Nama Variasi": "Adaan + Kulit,Lenjer + Telur",
+      "Jumlah": 3,
+      "Total Pembayaran": 126.823,
+      "Username (Pembeli)": "eyiin_yinn",
+      "Kota/Kabupaten": "KOTA TANJUNG PINANG"
+    },
+    {
+      "No. Pesanan": "25031913SS5WMD",
+      "Waktu Pesanan Dibuat": "2025-03-19 06:07",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 89.911,
+      "Username (Pembeli)": "murniatiprihantoro",
+      "Kota/Kabupaten": "KAB. MUSI BANYUASIN"
+    },
+    {
+      "No. Pesanan": "2503191T3ESJXV",
+      "Waktu Pesanan Dibuat": "2025-03-19 12:46",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 89.911,
+      "Username (Pembeli)": "ridoridosetiawan389",
+      "Kota/Kabupaten": "KAB. OGAN KOMERING ILIR"
+    },
+    {
+      "No. Pesanan": "2503192KJFXFHC",
+      "Waktu Pesanan Dibuat": "2025-03-19 20:22",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 4,
+      "Total Pembayaran": 309.667,
+      "Username (Pembeli)": "didimardiansyah01",
+      "Kota/Kabupaten": "KOTA JAKARTA PUSAT"
+    },
+    {
+      "No. Pesanan": "25032041GTE7F2",
+      "Waktu Pesanan Dibuat": "2025-03-20 10:04",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 2,
+      "Total Pembayaran": 0.0,
+      "Username (Pembeli)": "mw3rpag5q6",
+      "Kota/Kabupaten": "KOTA MEDAN"
+    },
+    {
+      "No. Pesanan": "25032045EWBSTM",
+      "Waktu Pesanan Dibuat": "2025-03-20 11:15",
+      "Nama Produk": "Cuko Pempek Palembang 150 ML Gula batok asli Linggau",
+      "Nama Variasi": "",
+      "Jumlah": 6,
+      "Total Pembayaran": 0.0,
+      "Username (Pembeli)": "windaistiani95",
+      "Kota/Kabupaten": "KAB. KOTA WARINGIN BARAT"
+    },
+    {
+      "No. Pesanan": "25032045EWBSTM",
+      "Waktu Pesanan Dibuat": "2025-03-20 11:15",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 8,
+      "Total Pembayaran": 0.0,
+      "Username (Pembeli)": "windaistiani95",
+      "Kota/Kabupaten": "KAB. KOTA WARINGIN BARAT"
+    },
+    {
+      "No. Pesanan": "250324F2K9ND9P",
+      "Waktu Pesanan Dibuat": "2025-03-24 19:23",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 10 pcs Palembang Asli SIZE MEDIUM Lenjer, Kulit & Telur",
+      "Nama Variasi": "Adaan + Kulit,Lenjer + Telur",
+      "Jumlah": 16,
+      "Total Pembayaran": 572.169,
+      "Username (Pembeli)": "agungtri19",
+      "Kota/Kabupaten": "KOTA PALEMBANG"
+    },
+    {
+      "No. Pesanan": "250326K8BEFGS7",
+      "Waktu Pesanan Dibuat": "2025-03-26 11:16",
+      "Nama Produk": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 2,
+      "Total Pembayaran": 257.1,
+      "Username (Pembeli)": "hj.iis",
+      "Kota/Kabupaten": "KOTA PALEMBANG"
+    },
+    {
+      "No. Pesanan": "250326K8BEFGS7",
+      "Waktu Pesanan Dibuat": "2025-03-26 11:16",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 2,
+      "Total Pembayaran": 257.1,
+      "Username (Pembeli)": "hj.iis",
+      "Kota/Kabupaten": "KOTA PALEMBANG"
+    },
+    {
+      "No. Pesanan": "250327PEJTA1BQ",
+      "Waktu Pesanan Dibuat": "2025-03-27 17:46",
+      "Nama Produk": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 8,
+      "Total Pembayaran": 354.0,
+      "Username (Pembeli)": "budisumaryono123",
+      "Kota/Kabupaten": "KOTA PALEMBANG"
+    },
+    {
+      "No. Pesanan": "2502024WMTDDEE",
+      "Waktu Pesanan Dibuat": "2025-02-02 11:21",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 96.9,
+      "Username (Pembeli)": "selinapricilia",
+      "Kota/Kabupaten": "KOTA MALANG"
+    },
+    {
+      "No. Pesanan": "2502133MQ63YDU",
+      "Waktu Pesanan Dibuat": "2025-02-13 12:55",
+      "Nama Produk": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 51.9,
+      "Username (Pembeli)": "_hafsah.26_",
+      "Kota/Kabupaten": "KOTA MALANG"
+    },
+    {
+      "No. Pesanan": "25021596C744F8",
+      "Waktu Pesanan Dibuat": "2025-02-15 17:54",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 96.9,
+      "Username (Pembeli)": "balqisjoalindamawardi",
+      "Kota/Kabupaten": "KOTA BANDAR LAMPUNG"
+    },
+    {
+      "No. Pesanan": "250215977T97D4",
+      "Waktu Pesanan Dibuat": "2025-02-15 18:10",
+      "Nama Produk": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MEDIUM Lenjer, Kulit & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 91.9,
+      "Username (Pembeli)": "nani29",
+      "Kota/Kabupaten": "KAB. KARAWANG"
+    },
+    {
+      "No. Pesanan": "25021599RPFN4B",
+      "Waktu Pesanan Dibuat": "2025-02-15 18:55",
+      "Nama Produk": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 0.0,
+      "Username (Pembeli)": "fitrisiskaulandari",
+      "Kota/Kabupaten": "KAB. LOMBOK TIMUR"
+    },
+    {
+      "No. Pesanan": "2502159B49QEGS",
+      "Waktu Pesanan Dibuat": "2025-02-15 19:19",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 97.0,
+      "Username (Pembeli)": "menyunz49",
+      "Kota/Kabupaten": "KAB. SEMARANG"
+    },
+    {
+      "No. Pesanan": "2502159HDWAPAS",
+      "Waktu Pesanan Dibuat": "2025-02-15 21:12",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 230.495,
+      "Username (Pembeli)": "mesayu99",
+      "Kota/Kabupaten": "KOTA BEKASI"
+    },
+    {
+      "No. Pesanan": "2502159HDWAPAS",
+      "Waktu Pesanan Dibuat": "2025-02-15 21:12",
+      "Nama Produk": "30 Pcs Pempek Vaccum Tahan 3 Hari ( Adaan, Lenjer, Kulit,Dan Adaan)",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 230.495,
+      "Username (Pembeli)": "mesayu99",
+      "Kota/Kabupaten": "KOTA BEKASI"
+    },
+    {
+      "No. Pesanan": "250216AYH46H5V",
+      "Waktu Pesanan Dibuat": "2025-02-16 10:57",
+      "Nama Produk": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 53.0,
+      "Username (Pembeli)": "efranveronika",
+      "Kota/Kabupaten": "KOTA PALEMBANG"
+    },
+    {
+      "No. Pesanan": "250216AYJ5MA9W",
+      "Waktu Pesanan Dibuat": "2025-02-16 10:58",
+      "Nama Produk": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 0.0,
+      "Username (Pembeli)": "efranveronika",
+      "Kota/Kabupaten": "KOTA PALEMBANG"
+    },
+    {
+      "No. Pesanan": "250216BMXV7XBH",
+      "Waktu Pesanan Dibuat": "2025-02-16 17:21",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 2,
+      "Total Pembayaran": 0.0,
+      "Username (Pembeli)": "mecca190120",
+      "Kota/Kabupaten": "KOTA MAKASSAR"
+    },
+    {
+      "No. Pesanan": "250217D3MU0YHB",
+      "Waktu Pesanan Dibuat": "2025-02-17 07:16",
+      "Nama Produk": "Cuko Pempek Palembang 150 ML Gula batok asli Linggau",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 158.6,
+      "Username (Pembeli)": "martha2011",
+      "Kota/Kabupaten": "KAB. SERAM BAGIAN TIMUR"
+    },
+    {
+      "No. Pesanan": "250217D3MU0YHB",
+      "Waktu Pesanan Dibuat": "2025-02-17 07:16",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 158.6,
+      "Username (Pembeli)": "martha2011",
+      "Kota/Kabupaten": "KAB. SERAM BAGIAN TIMUR"
+    },
+    {
+      "No. Pesanan": "250217DNWPU3SW",
+      "Waktu Pesanan Dibuat": "2025-02-17 12:43",
+      "Nama Produk": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 51.9,
+      "Username (Pembeli)": "susywintary",
+      "Kota/Kabupaten": "KOTA JAKARTA TIMUR"
+    },
+    {
+      "No. Pesanan": "250217E5PPV76G",
+      "Waktu Pesanan Dibuat": "2025-02-17 17:26",
+      "Nama Produk": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 2,
+      "Total Pembayaran": 55.5,
+      "Username (Pembeli)": "m_rafahaziq",
+      "Kota/Kabupaten": "KAB. LAMPUNG SELATAN"
+    },
+    {
+      "No. Pesanan": "250217E828G3XK",
+      "Waktu Pesanan Dibuat": "2025-02-17 18:08",
+      "Nama Produk": "Cuko Pempek Palembang 150 ML Gula batok asli Linggau",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 114.7,
+      "Username (Pembeli)": "wulannur1405",
+      "Kota/Kabupaten": "KOTA TANGERANG SELATAN"
+    },
+    {
+      "No. Pesanan": "250217E828G3XK",
+      "Waktu Pesanan Dibuat": "2025-02-17 18:08",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 114.7,
+      "Username (Pembeli)": "wulannur1405",
+      "Kota/Kabupaten": "KOTA TANGERANG SELATAN"
+    },
+    {
+      "No. Pesanan": "250217EDN864U7",
+      "Waktu Pesanan Dibuat": "2025-02-17 19:48",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 103.96,
+      "Username (Pembeli)": "86eyt34thezdd4qlluxsd542r599",
+      "Kota/Kabupaten": "KAB. MUARO JAMBI"
+    },
+    {
+      "No. Pesanan": "250220MMG7CA6P",
+      "Waktu Pesanan Dibuat": "2025-02-20 07:06",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 0.0,
+      "Username (Pembeli)": "najiahtahir032",
+      "Kota/Kabupaten": "KAB. KUTAI TIMUR"
+    },
+    {
+      "No. Pesanan": "250220MMSKTSA8",
+      "Waktu Pesanan Dibuat": "2025-02-20 07:12",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 0.0,
+      "Username (Pembeli)": "najiahtahir032",
+      "Kota/Kabupaten": "KAB. KUTAI TIMUR"
+    },
+    {
+      "No. Pesanan": "250222TUSSW636",
+      "Waktu Pesanan Dibuat": "2025-02-22 18:33",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 110.2,
+      "Username (Pembeli)": "normanfirdaus23",
+      "Kota/Kabupaten": "KOTA PAREPARE"
+    },
+    {
+      "No. Pesanan": "2502242FC3S93Y",
+      "Waktu Pesanan Dibuat": "2025-02-24 15:33",
+      "Nama Produk": "Cuko Pempek Palembang 150 ML Gula batok asli Linggau",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 0.0,
+      "Username (Pembeli)": "adityaarizona",
+      "Kota/Kabupaten": "KAB. LUMAJANG"
+    },
+    {
+      "No. Pesanan": "2502242FC3S93Y",
+      "Waktu Pesanan Dibuat": "2025-02-24 15:33",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 0.0,
+      "Username (Pembeli)": "adityaarizona",
+      "Kota/Kabupaten": "KAB. LUMAJANG"
+    },
+    {
+      "No. Pesanan": "2502242PP25V6Q",
+      "Waktu Pesanan Dibuat": "2025-02-24 17:44",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 0.0,
+      "Username (Pembeli)": "sip07",
+      "Kota/Kabupaten": "KOTA JAKARTA SELATAN"
+    },
+    {
+      "No. Pesanan": "25022432HGA2MT",
+      "Waktu Pesanan Dibuat": "2025-02-24 21:16",
+      "Nama Produk": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MEDIUM Lenjer, Kulit & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 82.0,
+      "Username (Pembeli)": "dianestii",
+      "Kota/Kabupaten": "KAB. KEDIRI"
+    },
+    {
+      "No. Pesanan": "250224332C4DD1",
+      "Waktu Pesanan Dibuat": "2025-02-24 21:26",
+      "Nama Produk": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 2,
+      "Total Pembayaran": 89.751,
+      "Username (Pembeli)": "fitria_y_elpita",
+      "Kota/Kabupaten": "KOTA BEKASI"
+    },
+    {
+      "No. Pesanan": "2502254KSYT6GU",
+      "Waktu Pesanan Dibuat": "2025-02-25 11:58",
+      "Nama Produk": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 46.9,
+      "Username (Pembeli)": "de_lien10",
+      "Kota/Kabupaten": "KOTA JAMBI"
+    },
+    {
+      "No. Pesanan": "2502255595JB7E",
+      "Waktu Pesanan Dibuat": "2025-02-25 17:11",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 92.0,
+      "Username (Pembeli)": "mukminin240",
+      "Kota/Kabupaten": "KAB. OGAN KOMERING ILIR"
+    },
+    {
+      "No. Pesanan": "2502279F5QGRWD",
+      "Waktu Pesanan Dibuat": "2025-02-27 10:18",
+      "Nama Produk": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MEDIUM Lenjer, Kulit & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 89.0,
+      "Username (Pembeli)": "lwnen_r8pa",
+      "Kota/Kabupaten": "KOTA DUMAI"
+    },
+    {
+      "No. Pesanan": "2502279VV443KR",
+      "Waktu Pesanan Dibuat": "2025-02-27 14:24",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 87.4,
+      "Username (Pembeli)": "iraasnani",
+      "Kota/Kabupaten": "KOTA CIMAHI"
+    },
+    {
+      "No. Pesanan": "250227ADWAK4YT",
+      "Waktu Pesanan Dibuat": "2025-02-27 19:29",
+      "Nama Produk": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MEDIUM Lenjer, Kulit & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 83.0,
+      "Username (Pembeli)": "ochautte2008",
+      "Kota/Kabupaten": "KAB. DEMAK"
+    },
+    {
+      "No. Pesanan": "250228C5AAK793",
+      "Waktu Pesanan Dibuat": "2025-02-28 12:00",
+      "Nama Produk": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 52.0,
+      "Username (Pembeli)": "diah.tri.primasari",
+      "Kota/Kabupaten": "KAB. SERANG"
+    },
+    {
+      "No. Pesanan": "250228C60G4PSA",
+      "Waktu Pesanan Dibuat": "2025-02-28 12:12",
+      "Nama Produk": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 2,
+      "Total Pembayaran": 101.0,
+      "Username (Pembeli)": "risayopi",
+      "Kota/Kabupaten": "KAB. AGAM"
+    },
+    {
+      "No. Pesanan": "250228C847V6WD",
+      "Waktu Pesanan Dibuat": "2025-02-28 12:50",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 91.9,
+      "Username (Pembeli)": "mamanandienchannel",
+      "Kota/Kabupaten": "KOTA PALEMBANG"
+    },
+    {
+      "No. Pesanan": "250228D24F6MBB",
+      "Waktu Pesanan Dibuat": "2025-02-28 20:36",
+      "Nama Produk": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 900.0,
+      "Username (Pembeli)": "_hafsah.26_",
+      "Kota/Kabupaten": "KOTA MALANG"
+    },
+    {
+      "No. Pesanan": "250103GPGKAF45",
+      "Waktu Pesanan Dibuat": "2025-01-03 10:25",
+      "Nama Produk": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 52.0,
+      "Username (Pembeli)": "180201ajs",
+      "Kota/Kabupaten": "KAB. BANYUASIN"
+    },
+    {
+      "No. Pesanan": "25010800P2WD9X",
+      "Waktu Pesanan Dibuat": "2025-01-08 08:59",
+      "Nama Produk": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MEDIUM Lenjer, Kulit & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 91.9,
+      "Username (Pembeli)": "muhammadimamsatriaputra",
+      "Kota/Kabupaten": "KOTA TANGERANG SELATAN"
+    },
+    {
+      "No. Pesanan": "250113CFW6TJYB",
+      "Waktu Pesanan Dibuat": "2025-01-13 08:03",
+      "Nama Produk": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 5,
+      "Total Pembayaran": 255.569,
+      "Username (Pembeli)": "kukojowo",
+      "Kota/Kabupaten": "KOTA BOGOR"
+    },
+    {
+      "No. Pesanan": "250118S5RC5H18",
+      "Waktu Pesanan Dibuat": "2025-01-18 09:06",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 0.0,
+      "Username (Pembeli)": "riskafitriadewii",
+      "Kota/Kabupaten": "KOTA PALEMBANG"
+    },
+    {
+      "No. Pesanan": "250124AA433W05",
+      "Waktu Pesanan Dibuat": "2025-01-24 01:01",
+      "Nama Produk": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 51.89,
+      "Username (Pembeli)": "unag1",
+      "Kota/Kabupaten": "KOTA BEKASI"
+    },
+    {
+      "No. Pesanan": "241201MKPN4SVX",
+      "Waktu Pesanan Dibuat": "2024-12-01 06:25",
+      "Nama Produk": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 52.0,
+      "Username (Pembeli)": "nurha.456",
+      "Kota/Kabupaten": "KOTA TANGERANG"
+    },
+    {
+      "No. Pesanan": "241202Q7356FF5",
+      "Waktu Pesanan Dibuat": "2024-12-02 07:18",
+      "Nama Produk": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 0.0,
+      "Username (Pembeli)": "vikanv26",
+      "Kota/Kabupaten": "KOTA BEKASI"
+    },
+    {
+      "No. Pesanan": "241203U3DG2D7S",
+      "Waktu Pesanan Dibuat": "2024-12-03 20:23",
+      "Nama Produk": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 51.187,
+      "Username (Pembeli)": "avyshelviana_",
+      "Kota/Kabupaten": "KOTA TANGERANG"
+    },
+    {
+      "No. Pesanan": "241205269HFVXW",
+      "Waktu Pesanan Dibuat": "2024-12-05 12:24",
+      "Nama Produk": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 52.0,
+      "Username (Pembeli)": "sonwendys",
+      "Kota/Kabupaten": "KAB. SLEMAN"
+    },
+    {
+      "No. Pesanan": "2412077MQS9442",
+      "Waktu Pesanan Dibuat": "2024-12-07 16:26",
+      "Nama Produk": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 52.0,
+      "Username (Pembeli)": "artiaputri_",
+      "Kota/Kabupaten": "KOTA SUKABUMI"
+    },
+    {
+      "No. Pesanan": "24120782F49NRK",
+      "Waktu Pesanan Dibuat": "2024-12-07 20:32",
+      "Nama Produk": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 0.0,
+      "Username (Pembeli)": "aqueenza31",
+      "Kota/Kabupaten": "KOTA PADANG"
+    },
+    {
+      "No. Pesanan": "24120782F49NRK",
+      "Waktu Pesanan Dibuat": "2024-12-07 20:32",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 10 pcs Palembang Asli SIZE MEDIUM Lenjer, Kulit & Telur",
+      "Nama Variasi": "Adaan + Kulit,Lenjer + Telur",
+      "Jumlah": 1,
+      "Total Pembayaran": 0.0,
+      "Username (Pembeli)": "aqueenza31",
+      "Kota/Kabupaten": "KOTA PADANG"
+    },
+    {
+      "No. Pesanan": "241211JAK7KJAW",
+      "Waktu Pesanan Dibuat": "2024-12-11 22:24",
+      "Nama Produk": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 4,
+      "Total Pembayaran": 204.491,
+      "Username (Pembeli)": "kukojowo",
+      "Kota/Kabupaten": "KAB. LAMONGAN"
+    },
+    {
+      "No. Pesanan": "241213Q4XUBY9M",
+      "Waktu Pesanan Dibuat": "2024-12-13 20:26",
+      "Nama Produk": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 6,
+      "Total Pembayaran": 278.0,
+      "Username (Pembeli)": "kimiyu2309",
+      "Kota/Kabupaten": "KAB. PURWAKARTA"
+    },
+    {
+      "No. Pesanan": "241213Q5KNYWYW",
+      "Waktu Pesanan Dibuat": "2024-12-13 20:38",
+      "Nama Produk": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 2,
+      "Total Pembayaran": 100.0,
+      "Username (Pembeli)": "wedha.co",
+      "Kota/Kabupaten": "KAB. GRESIK"
+    },
+    {
+      "No. Pesanan": "241215UP1S85G7",
+      "Waktu Pesanan Dibuat": "2024-12-15 15:43",
+      "Nama Produk": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 7,
+      "Total Pembayaran": 323.5,
+      "Username (Pembeli)": "andikusumah",
+      "Kota/Kabupaten": "KAB. BOGOR"
+    },
+    {
+      "No. Pesanan": "2412161PMYKGEX",
+      "Waktu Pesanan Dibuat": "2024-12-16 21:31",
+      "Nama Produk": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 42.0,
+      "Username (Pembeli)": "dtiiiiiiiiiiiiii",
+      "Kota/Kabupaten": "KAB. LOMBOK TIMUR"
+    },
+    {
+      "No. Pesanan": "2412161T3GRW50",
+      "Waktu Pesanan Dibuat": "2024-12-16 22:33",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 97.0,
+      "Username (Pembeli)": "melisaprastiawati",
+      "Kota/Kabupaten": "KOTA PADANG"
+    },
+    {
+      "No. Pesanan": "2412173UU0147H",
+      "Waktu Pesanan Dibuat": "2024-12-17 18:09",
+      "Nama Produk": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 48.035,
+      "Username (Pembeli)": "",
+      "Kota/Kabupaten": "KAB. KLATEN"
+    },
+    {
+      "No. Pesanan": "2412198G3F1NY2",
+      "Waktu Pesanan Dibuat": "2024-12-19 14:22",
+      "Nama Produk": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 2,
+      "Total Pembayaran": 292.0,
+      "Username (Pembeli)": "farzanaalubiss",
+      "Kota/Kabupaten": "KOTA BANDUNG"
+    },
+    {
+      "No. Pesanan": "2412198G3F1NY2",
+      "Waktu Pesanan Dibuat": "2024-12-19 14:22",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 2,
+      "Total Pembayaran": 292.0,
+      "Username (Pembeli)": "farzanaalubiss",
+      "Kota/Kabupaten": "KOTA BANDUNG"
+    },
+    {
+      "No. Pesanan": "2412282CXGDQBV",
+      "Waktu Pesanan Dibuat": "2024-12-28 17:57",
+      "Nama Produk": "30 Pcs Pempek Vaccum Tahan 3 Hari ( Adaan, Lenjer, Kulit,Dan Adaan)",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 249.44,
+      "Username (Pembeli)": "firmantu",
+      "Kota/Kabupaten": "KOTA AMBON"
+    },
+    {
+      "No. Pesanan": "2412282RCWUMQV",
+      "Waktu Pesanan Dibuat": "2024-12-28 21:22",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 97.0,
+      "Username (Pembeli)": "danielsitanggang7",
+      "Kota/Kabupaten": "KAB. BOGOR"
+    },
+    {
+      "No. Pesanan": "2411013RF3QU31",
+      "Waktu Pesanan Dibuat": "2024-11-01 10:02",
+      "Nama Produk": "Pempek Tenggiri Super Premium Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 0.0,
+      "Username (Pembeli)": "reniinotakatsuki",
+      "Kota/Kabupaten": "KAB. MALANG"
+    },
+    {
+      "No. Pesanan": "24110145Y8X72N",
+      "Waktu Pesanan Dibuat": "2024-11-01 14:04",
+      "Nama Produk": "Pempek Tenggiri Super Premium Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 52.0,
+      "Username (Pembeli)": "reniinotakatsuki",
+      "Kota/Kabupaten": "KAB. MALANG"
+    },
+    {
+      "No. Pesanan": "241104B9SX4X3X",
+      "Waktu Pesanan Dibuat": "2024-11-04 10:01",
+      "Nama Produk": "Pempek Tenggiri Super Premium Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 53.5,
+      "Username (Pembeli)": "noviwarna",
+      "Kota/Kabupaten": "KAB. GIANYAR"
+    },
+    {
+      "No. Pesanan": "241104CCBT542H",
+      "Waktu Pesanan Dibuat": "2024-11-04 20:19",
+      "Nama Produk": "Pempek Tenggiri Super Premium Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 51.5,
+      "Username (Pembeli)": "zikri_4",
+      "Kota/Kabupaten": "KAB. AGAM"
+    },
+    {
+      "No. Pesanan": "241105CVFEJHVU",
+      "Waktu Pesanan Dibuat": "2024-11-05 01:08",
+      "Nama Produk": "Pempek Tenggiri Super Premium Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 52.0,
+      "Username (Pembeli)": "yaqina_al",
+      "Kota/Kabupaten": "KAB. LOMBOK TENGAH"
+    },
+    {
+      "No. Pesanan": "241105EBSJYNRG",
+      "Waktu Pesanan Dibuat": "2024-11-05 15:15",
+      "Nama Produk": "Pempek Tenggiri Super Premium Murah  AlKindi 20 pcs Palembang Asli SIZE MEDIUM Lenjer, Kulit & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 2,
+      "Total Pembayaran": 180.298,
+      "Username (Pembeli)": "vaniacindyw",
+      "Kota/Kabupaten": "KOTA JAKARTA SELATAN"
+    },
+    {
+      "No. Pesanan": "241105EP0X2THT",
+      "Waktu Pesanan Dibuat": "2024-11-05 18:18",
+      "Nama Produk": "Pempek Tenggiri Super Premium Murah  AlKindi 10 pcs Palembang Asli SIZE MEDIUM Lenjer, Kulit & Telur",
+      "Nama Variasi": "Adaan + Kulit,Lenjer + Telur",
+      "Jumlah": 2,
+      "Total Pembayaran": 92.0,
+      "Username (Pembeli)": "mangaramalau297",
+      "Kota/Kabupaten": "KOTA TANGERANG SELATAN"
+    },
+    {
+      "No. Pesanan": "241106FUD8HUUC",
+      "Waktu Pesanan Dibuat": "2024-11-06 05:27",
+      "Nama Produk": "Pempek Tenggiri Super Premium Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 0.0,
+      "Username (Pembeli)": "kimiyu2309",
+      "Kota/Kabupaten": "KAB. PURWAKARTA"
+    },
+    {
+      "No. Pesanan": "241106FUD8HUUC",
+      "Waktu Pesanan Dibuat": "2024-11-06 05:27",
+      "Nama Produk": "Pempek Tenggiri Super Premium Murah  AlKindi 10 pcs Palembang Asli SIZE MEDIUM Lenjer, Kulit & Telur",
+      "Nama Variasi": "Adaan + Kulit,Lenjer + Telur",
+      "Jumlah": 1,
+      "Total Pembayaran": 0.0,
+      "Username (Pembeli)": "kimiyu2309",
+      "Kota/Kabupaten": "KAB. PURWAKARTA"
+    },
+    {
+      "No. Pesanan": "241106G5RHKJRR",
+      "Waktu Pesanan Dibuat": "2024-11-06 08:32",
+      "Nama Produk": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 2,
+      "Total Pembayaran": 99.5,
+      "Username (Pembeli)": "djubaedahsh",
+      "Kota/Kabupaten": "KOTA BANDUNG"
+    },
+    {
+      "No. Pesanan": "241106HGQ4U3H6",
+      "Waktu Pesanan Dibuat": "2024-11-06 21:21",
+      "Nama Produk": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 0.0,
+      "Username (Pembeli)": "kimiyu2309",
+      "Kota/Kabupaten": "KAB. PURWAKARTA"
+    },
+    {
+      "No. Pesanan": "241106HGQ4U3H6",
+      "Waktu Pesanan Dibuat": "2024-11-06 21:21",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 10 pcs Palembang Asli SIZE MEDIUM Lenjer, Kulit & Telur",
+      "Nama Variasi": "Adaan + Kulit,Lenjer + Telur",
+      "Jumlah": 1,
+      "Total Pembayaran": 0.0,
+      "Username (Pembeli)": "kimiyu2309",
+      "Kota/Kabupaten": "KAB. PURWAKARTA"
+    },
+    {
+      "No. Pesanan": "241108MEN9WMJ5",
+      "Waktu Pesanan Dibuat": "2024-11-08 01:22",
+      "Nama Produk": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 2,
+      "Total Pembayaran": 0.0,
+      "Username (Pembeli)": "dennisayuniar",
+      "Kota/Kabupaten": "KAB. INDRAMAYU"
+    },
+    {
+      "No. Pesanan": "241109R92EYN7K",
+      "Waktu Pesanan Dibuat": "2024-11-09 13:53",
+      "Nama Produk": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 2,
+      "Total Pembayaran": 99.071,
+      "Username (Pembeli)": "dennisayuniar",
+      "Kota/Kabupaten": "KAB. INDRAMAYU"
+    },
+    {
+      "No. Pesanan": "241111VY73FKSG",
+      "Waktu Pesanan Dibuat": "2024-11-11 10:39",
+      "Nama Produk": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 7,
+      "Total Pembayaran": 0.0,
+      "Username (Pembeli)": "mama_5_boys",
+      "Kota/Kabupaten": "KAB. BANYUASIN"
+    },
+    {
+      "No. Pesanan": "2411110BAAYS5J",
+      "Waktu Pesanan Dibuat": "2024-11-11 15:15",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 105.5,
+      "Username (Pembeli)": "03fatimah_0596.",
+      "Kota/Kabupaten": "KAB. LUWU UTARA"
+    },
+    {
+      "No. Pesanan": "2411110F1SBAVP",
+      "Waktu Pesanan Dibuat": "2024-11-11 16:22",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 10 pcs Palembang Asli SIZE MEDIUM Lenjer, Kulit & Telur",
+      "Nama Variasi": "Adaan + Kulit,Lenjer + Telur",
+      "Jumlah": 1,
+      "Total Pembayaran": 47.0,
+      "Username (Pembeli)": "detiamalia",
+      "Kota/Kabupaten": "KAB. PURWAKARTA"
+    },
+    {
+      "No. Pesanan": "2411122EV9E503",
+      "Waktu Pesanan Dibuat": "2024-11-12 11:25",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 101.0,
+      "Username (Pembeli)": "tinashaa",
+      "Kota/Kabupaten": "KOTA MEDAN"
+    },
+    {
+      "No. Pesanan": "2411135NURR833",
+      "Waktu Pesanan Dibuat": "2024-11-13 18:07",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 10 pcs Palembang Asli SIZE MEDIUM Lenjer, Kulit & Telur",
+      "Nama Variasi": "Adaan + Kulit,Lenjer + Telur",
+      "Jumlah": 5,
+      "Total Pembayaran": 225.891,
+      "Username (Pembeli)": "kimiyu2309",
+      "Kota/Kabupaten": "KAB. PURWAKARTA"
+    },
+    {
+      "No. Pesanan": "241117ERSKB5EV",
+      "Waktu Pesanan Dibuat": "2024-11-17 08:54",
+      "Nama Produk": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 221.638,
+      "Username (Pembeli)": "kimiyu2309",
+      "Kota/Kabupaten": "KAB. PURWAKARTA"
+    },
+    {
+      "No. Pesanan": "241117ERSKB5EV",
+      "Waktu Pesanan Dibuat": "2024-11-17 08:54",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 10 pcs Palembang Asli SIZE MEDIUM Lenjer, Kulit & Telur",
+      "Nama Variasi": "Adaan + Kulit,Lenjer + Telur",
+      "Jumlah": 4,
+      "Total Pembayaran": 221.638,
+      "Username (Pembeli)": "kimiyu2309",
+      "Kota/Kabupaten": "KAB. PURWAKARTA"
+    },
+    {
+      "No. Pesanan": "241119KCUQ5Y0W",
+      "Waktu Pesanan Dibuat": "2024-11-19 05:04",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 10 pcs Palembang Asli SIZE MEDIUM Lenjer, Kulit & Telur",
+      "Nama Variasi": "Adaan + Kulit,Lenjer + Telur",
+      "Jumlah": 5,
+      "Total Pembayaran": 226.456,
+      "Username (Pembeli)": "kimiyu2309",
+      "Kota/Kabupaten": "KAB. PURWAKARTA"
+    },
+    {
+      "No. Pesanan": "241119KYW8PG9H",
+      "Waktu Pesanan Dibuat": "2024-11-19 10:45",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 10 pcs Palembang Asli SIZE MEDIUM Lenjer, Kulit & Telur",
+      "Nama Variasi": "Adaan + Kulit,Lenjer + Telur",
+      "Jumlah": 5,
+      "Total Pembayaran": 225.64,
+      "Username (Pembeli)": "kimiyu2309",
+      "Kota/Kabupaten": "KAB. PURWAKARTA"
+    },
+    {
+      "No. Pesanan": "241123VVGBDF39",
+      "Waktu Pesanan Dibuat": "2024-11-22 23:38",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 10 pcs Palembang Asli SIZE MEDIUM Lenjer, Kulit & Telur",
+      "Nama Variasi": "Adaan + Kulit,Lenjer + Telur",
+      "Jumlah": 5,
+      "Total Pembayaran": 227.0,
+      "Username (Pembeli)": "azzahra_halalfood",
+      "Kota/Kabupaten": "KOTA TANGERANG"
+    },
+    {
+      "No. Pesanan": "24112312NXTWVW",
+      "Waktu Pesanan Dibuat": "2024-11-23 12:00",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 10 pcs Palembang Asli SIZE MEDIUM Lenjer, Kulit & Telur",
+      "Nama Variasi": "Adaan + Kulit,Lenjer + Telur",
+      "Jumlah": 5,
+      "Total Pembayaran": 227.0,
+      "Username (Pembeli)": "azzahra_halalfood",
+      "Kota/Kabupaten": "KOTA TANGERANG"
+    },
+    {
+      "No. Pesanan": "241130KHP637TR",
+      "Waktu Pesanan Dibuat": "2024-11-30 20:17",
+      "Nama Produk": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MEDIUM Lenjer, Kulit & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 147.0,
+      "Username (Pembeli)": "nani29",
+      "Kota/Kabupaten": "KAB. DELI SERDANG"
+    },
+    {
+      "No. Pesanan": "241130KHP637TR",
+      "Waktu Pesanan Dibuat": "2024-11-30 20:17",
+      "Nama Produk": "Pempek Palembang Asli Super Murah AlKindi 10 pcs Palembang Asli SIZE MEDIUM Lenjer, Kulit & Telur",
+      "Nama Variasi": "Adaan + Kulit,Lenjer + Telur",
+      "Jumlah": 1,
+      "Total Pembayaran": 147.0,
+      "Username (Pembeli)": "nani29",
+      "Kota/Kabupaten": "KAB. DELI SERDANG"
+    },
+    {
+      "No. Pesanan": "241006T5AUFT7J",
+      "Waktu Pesanan Dibuat": "2024-10-06 14:31",
+      "Nama Produk": "Pempek Tenggiri Super Premium Murah  AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 5,
+      "Total Pembayaran": 0.0,
+      "Username (Pembeli)": "graffvonspee",
+      "Kota/Kabupaten": "KAB. WAKATOBI"
+    },
+    {
+      "No. Pesanan": "241006TAK4V72S",
+      "Waktu Pesanan Dibuat": "2024-10-06 16:05",
+      "Nama Produk": "Pempek Tenggiri Super Premium Murah  AlKindi 10 pcs Palembang Asli SIZE MEDIUM Lenjer, Kulit & Telur",
+      "Nama Variasi": "Adaan + Kulit,Lenjer + Telur",
+      "Jumlah": 2,
+      "Total Pembayaran": 92.0,
+      "Username (Pembeli)": "marianicandra806",
+      "Kota/Kabupaten": "KOTA JAKARTA BARAT"
+    },
+    {
+      "No. Pesanan": "241007VSVR993J",
+      "Waktu Pesanan Dibuat": "2024-10-07 15:44",
+      "Nama Produk": "Pempek Tenggiri Super Premium Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 10,
+      "Total Pembayaran": 0.0,
+      "Username (Pembeli)": "graffvonspee",
+      "Kota/Kabupaten": "KAB. WAKATOBI"
+    },
+    {
+      "No. Pesanan": "2410082401QANG",
+      "Waktu Pesanan Dibuat": "2024-10-08 14:50",
+      "Nama Produk": "Pempek Tenggiri Super Premium Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 52.242,
+      "Username (Pembeli)": "latifah_yamanj",
+      "Kota/Kabupaten": "KAB. PESISIR BARAT"
+    },
+    {
+      "No. Pesanan": "2410094X5KBT8A",
+      "Waktu Pesanan Dibuat": "2024-10-09 17:44",
+      "Nama Produk": "Pempek Tenggiri Super Premium Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 2,
+      "Total Pembayaran": 100.0,
+      "Username (Pembeli)": "queerinealice",
+      "Kota/Kabupaten": "KOTA DEPOK"
+    },
+    {
+      "No. Pesanan": "2410106EHCD9YJ",
+      "Waktu Pesanan Dibuat": "2024-10-10 08:09",
+      "Nama Produk": "Pempek Tenggiri Super Premium Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 2,
+      "Total Pembayaran": 0.0,
+      "Username (Pembeli)": "fajariadewikurnia",
+      "Kota/Kabupaten": "KOTA PALEMBANG"
+    },
+    {
+      "No. Pesanan": "2410106ENA8VBY",
+      "Waktu Pesanan Dibuat": "2024-10-10 08:11",
+      "Nama Produk": "Pempek Tenggiri Super Premium Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 2,
+      "Total Pembayaran": 91.0,
+      "Username (Pembeli)": "fajariadewikurnia",
+      "Kota/Kabupaten": "KAB. MALANG"
+    },
+    {
+      "No. Pesanan": "241022811SS8A3",
+      "Waktu Pesanan Dibuat": "2024-10-22 13:00",
+      "Nama Produk": "Pempek Tenggiri Super Premium Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 2,
+      "Total Pembayaran": 100.0,
+      "Username (Pembeli)": "_hafsah.26_",
+      "Kota/Kabupaten": "KOTA MALANG"
+    },
+    {
+      "No. Pesanan": "241024CAB0TMS8",
+      "Waktu Pesanan Dibuat": "2024-10-24 05:57",
+      "Nama Produk": "Pempek Tenggiri Super Premium Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 3,
+      "Total Pembayaran": 0.0,
+      "Username (Pembeli)": "kimiyu2309",
+      "Kota/Kabupaten": "KAB. PURWAKARTA"
+    },
+    {
+      "No. Pesanan": "241024CAB0TMS8",
+      "Waktu Pesanan Dibuat": "2024-10-24 05:57",
+      "Nama Produk": "Pempek Tenggiri Super Premium Murah  AlKindi 10 pcs Palembang Asli SIZE MEDIUM Lenjer, Kulit & Telur",
+      "Nama Variasi": "Adaan + Kulit,Lenjer + Telur",
+      "Jumlah": 2,
+      "Total Pembayaran": 0.0,
+      "Username (Pembeli)": "kimiyu2309",
+      "Kota/Kabupaten": "KAB. PURWAKARTA"
+    },
+    {
+      "No. Pesanan": "241024CAE8TACC",
+      "Waktu Pesanan Dibuat": "2024-10-24 05:58",
+      "Nama Produk": "Pempek Tenggiri Super Premium Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 3,
+      "Total Pembayaran": 241.594,
+      "Username (Pembeli)": "kimiyu2309",
+      "Kota/Kabupaten": "KAB. PURWAKARTA"
+    },
+    {
+      "No. Pesanan": "241024CAE8TACC",
+      "Waktu Pesanan Dibuat": "2024-10-24 05:58",
+      "Nama Produk": "Pempek Tenggiri Super Premium Murah  AlKindi 10 pcs Palembang Asli SIZE MEDIUM Lenjer, Kulit & Telur",
+      "Nama Variasi": "Adaan + Kulit,Lenjer + Telur",
+      "Jumlah": 2,
+      "Total Pembayaran": 241.594,
+      "Username (Pembeli)": "kimiyu2309",
+      "Kota/Kabupaten": "KAB. PURWAKARTA"
+    },
+    {
+      "No. Pesanan": "241026HR26G6VF",
+      "Waktu Pesanan Dibuat": "2024-10-26 09:45",
+      "Nama Produk": "Pempek Tenggiri Super Premium Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 0.0,
+      "Username (Pembeli)": "atmanoban_",
+      "Kota/Kabupaten": "KAB. KEDIRI"
+    },
+    {
+      "No. Pesanan": "241026HR9WFUNB",
+      "Waktu Pesanan Dibuat": "2024-10-26 09:50",
+      "Nama Produk": "Pempek Tenggiri Super Premium Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 50.713,
+      "Username (Pembeli)": "atmanoban_",
+      "Kota/Kabupaten": "KAB. KEDIRI"
+    },
+    {
+      "No. Pesanan": "241026J73PYV2R",
+      "Waktu Pesanan Dibuat": "2024-10-26 14:15",
+      "Nama Produk": "Pempek Tenggiri Super Premium Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 52.0,
+      "Username (Pembeli)": "kyukyu191",
+      "Kota/Kabupaten": "KAB. BREBES"
+    },
+    {
+      "No. Pesanan": "241028PVM9PWAT",
+      "Waktu Pesanan Dibuat": "2024-10-28 10:51",
+      "Nama Produk": "Pempek Tenggiri Super Premium Murah  AlKindi 20 pcs Palembang Asli SIZE MEDIUM Lenjer, Kulit & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 10,
+      "Total Pembayaran": "",
+      "Username (Pembeli)": "muhammadanugrah74",
+      "Kota/Kabupaten": "KOTA JAKARTA BARAT"
+    },
+    {
+      "No. Pesanan": "241029SYWD15KK",
+      "Waktu Pesanan Dibuat": "2024-10-29 16:27",
+      "Nama Produk": "Pempek Tenggiri Super Premium Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 52.0,
+      "Username (Pembeli)": "mujianiani2017",
+      "Kota/Kabupaten": "KAB. BOGOR"
+    },
+    {
+      "No. Pesanan": "241031109FQ569",
+      "Waktu Pesanan Dibuat": "2024-10-31 07:44",
+      "Nama Produk": "Cuko Pempek Palembang 150 ML Gula batok asli Linggau",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 0.0,
+      "Username (Pembeli)": "ffb91wz7_wmkdvf1b8_5csjcioxr",
+      "Kota/Kabupaten": "KAB. KARANGANYAR"
+    },
+    {
+      "No. Pesanan": "241031109FQ569",
+      "Waktu Pesanan Dibuat": "2024-10-31 07:44",
+      "Nama Produk": "Pempek Tenggiri Super Premium Murah  AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 0.0,
+      "Username (Pembeli)": "ffb91wz7_wmkdvf1b8_5csjcioxr",
+      "Kota/Kabupaten": "KAB. KARANGANYAR"
+    },
+    {
+      "No. Pesanan": "24103117XQJU90",
+      "Waktu Pesanan Dibuat": "2024-10-31 10:01",
+      "Nama Produk": "Pempek Tenggiri Super Premium Murah  AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 2,
+      "Total Pembayaran": 207.2,
+      "Username (Pembeli)": "7uvf26gp6f",
+      "Kota/Kabupaten": "KAB. PEMALANG"
+    },
+    {
+      "No. Pesanan": "2410311AHA58B6",
+      "Waktu Pesanan Dibuat": "2024-10-31 10:47",
+      "Nama Produk": "Pempek Tenggiri Super Premium Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 52.0,
+      "Username (Pembeli)": "cb9b85u5z9",
+      "Kota/Kabupaten": "KAB. BATANG"
+    },
+    {
+      "No. Pesanan": "2410311GWDU6QR",
+      "Waktu Pesanan Dibuat": "2024-10-31 12:42",
+      "Nama Produk": "Pempek Tenggiri Super Premium Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 0.0,
+      "Username (Pembeli)": "pikapika623",
+      "Kota/Kabupaten": "KAB. EMPAT LAWANG"
+    },
+    {
+      "No. Pesanan": "240902UKVJSBYX",
+      "Waktu Pesanan Dibuat": "2024-09-02 11:04",
+      "Nama Produk": "Cuko Pempek Palembang 150 ML Gula batok asli Linggau",
+      "Nama Variasi": "",
+      "Jumlah": 3,
+      "Total Pembayaran": 141.5,
+      "Username (Pembeli)": "sallyzulmadjdi",
+      "Kota/Kabupaten": "KOTA JAKARTA TIMUR"
+    },
+    {
+      "No. Pesanan": "240902UKVJSBYX",
+      "Waktu Pesanan Dibuat": "2024-09-02 11:04",
+      "Nama Produk": "Pempek Tenggiri Super Premium Murah  AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 141.5,
+      "Username (Pembeli)": "sallyzulmadjdi",
+      "Kota/Kabupaten": "KOTA JAKARTA TIMUR"
+    },
+    {
+      "No. Pesanan": "2409030ND901JN",
+      "Waktu Pesanan Dibuat": "2024-09-03 07:36",
+      "Nama Produk": "Pempek Tenggiri Super Premium Murah  AlKindi 20 pcs Palembang Asli SIZE MEDIUM Lenjer, Kulit & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 2,
+      "Total Pembayaran": 198.4,
+      "Username (Pembeli)": "astaalfaqir",
+      "Kota/Kabupaten": "KAB. SEMARANG"
+    },
+    {
+      "No. Pesanan": "2409055MMGRU2B",
+      "Waktu Pesanan Dibuat": "2024-09-05 07:06",
+      "Nama Produk": "Pempek Tenggiri Super Premium Murah  AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 86.096,
+      "Username (Pembeli)": "tika252729",
+      "Kota/Kabupaten": "KOTA BEKASI"
+    },
+    {
+      "No. Pesanan": "240908DG2A6MBF",
+      "Waktu Pesanan Dibuat": "2024-09-08 10:05",
+      "Nama Produk": "Pempek Tenggiri Super Premium Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 0.0,
+      "Username (Pembeli)": "tini_nuraini",
+      "Kota/Kabupaten": "KAB. CIANJUR"
+    },
+    {
+      "No. Pesanan": "240908EPSEXQTY",
+      "Waktu Pesanan Dibuat": "2024-09-08 21:38",
+      "Nama Produk": "Cuko Pempek Palembang 150 ML Gula batok asli Linggau",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 206.045,
+      "Username (Pembeli)": "raeeshameutuah0408",
+      "Kota/Kabupaten": "KOTA TANGERANG"
+    },
+    {
+      "No. Pesanan": "240908EPSEXQTY",
+      "Waktu Pesanan Dibuat": "2024-09-08 21:38",
+      "Nama Produk": "Pempek Tenggiri Super Premium Murah  AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 206.045,
+      "Username (Pembeli)": "raeeshameutuah0408",
+      "Kota/Kabupaten": "KOTA TANGERANG"
+    },
+    {
+      "No. Pesanan": "240908EPSEXQTY",
+      "Waktu Pesanan Dibuat": "2024-09-08 21:38",
+      "Nama Produk": "Pempek KapalSelam Vaccum Tahan 3 Hari",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 206.045,
+      "Username (Pembeli)": "raeeshameutuah0408",
+      "Kota/Kabupaten": "KOTA TANGERANG"
+    },
+    {
+      "No. Pesanan": "240910JADVX0AF",
+      "Waktu Pesanan Dibuat": "2024-09-10 08:08",
+      "Nama Produk": "Pempek AlKindi Kerupuk Kancing Super Grade A 200gr",
+      "Nama Variasi": "",
+      "Jumlah": 2,
+      "Total Pembayaran": 153.9,
+      "Username (Pembeli)": "mutiananta",
+      "Kota/Kabupaten": "KOTA DEPOK"
+    },
+    {
+      "No. Pesanan": "240910JADVX0AF",
+      "Waktu Pesanan Dibuat": "2024-09-10 08:08",
+      "Nama Produk": "Pempek Tenggiri Super Premium Murah  AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 153.9,
+      "Username (Pembeli)": "mutiananta",
+      "Kota/Kabupaten": "KOTA DEPOK"
+    },
+    {
+      "No. Pesanan": "240912QFJWR0DX",
+      "Waktu Pesanan Dibuat": "2024-09-12 09:23",
+      "Nama Produk": "Pempek Tenggiri Super Premium Murah  AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 96.0,
+      "Username (Pembeli)": "fajariadewikurnia",
+      "Kota/Kabupaten": "KAB. MALANG"
+    },
+    {
+      "No. Pesanan": "240912QS4915J5",
+      "Waktu Pesanan Dibuat": "2024-09-12 12:14",
+      "Nama Produk": "Pempek Tenggiri Super Premium Murah  AlKindi 5 pcs Palembang Asli SIZE JUMBO KAPAL SELAM",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 61.446,
+      "Username (Pembeli)": "_hafsah.26_",
+      "Kota/Kabupaten": "KOTA MALANG"
+    },
+    {
+      "No. Pesanan": "240912QS4915J5",
+      "Waktu Pesanan Dibuat": "2024-09-12 12:14",
+      "Nama Produk": "Pempek Tenggiri Super Premium Murah  AlKindi 10 pcs Palembang Asli SIZE MEDIUM Lenjer, Kulit & Telur",
+      "Nama Variasi": "Adaan + Kulit,Lenjer + Telur",
+      "Jumlah": 1,
+      "Total Pembayaran": 61.446,
+      "Username (Pembeli)": "_hafsah.26_",
+      "Kota/Kabupaten": "KOTA MALANG"
+    },
+    {
+      "No. Pesanan": "2409164BR2P8PJ",
+      "Waktu Pesanan Dibuat": "2024-09-16 08:40",
+      "Nama Produk": "Pempek Tenggiri Super Premium Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 0.0,
+      "Username (Pembeli)": "ubl18cgrna",
+      "Kota/Kabupaten": "KOTA PALEMBANG"
+    },
+    {
+      "No. Pesanan": "2409164BR2P8PJ",
+      "Waktu Pesanan Dibuat": "2024-09-16 08:40",
+      "Nama Produk": "Cuko Pempek Palembang 150 ML Gula batok asli Linggau",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 0.0,
+      "Username (Pembeli)": "ubl18cgrna",
+      "Kota/Kabupaten": "KOTA PALEMBANG"
+    },
+    {
+      "No. Pesanan": "2409165EDE8P45",
+      "Waktu Pesanan Dibuat": "2024-09-16 19:01",
+      "Nama Produk": "Pempek Tenggiri Super Premium Murah  AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 96.8,
+      "Username (Pembeli)": "iinindriany10",
+      "Kota/Kabupaten": "KOTA PANGKAL PINANG"
+    },
+    {
+      "No. Pesanan": "24091765B6N94S",
+      "Waktu Pesanan Dibuat": "2024-09-17 01:51",
+      "Nama Produk": "Pempek Tenggiri Super Premium Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 0.0,
+      "Username (Pembeli)": "kadobasorak",
+      "Kota/Kabupaten": "KAB. TEBO"
+    },
+    {
+      "No. Pesanan": "24091765B6N94S",
+      "Waktu Pesanan Dibuat": "2024-09-17 01:51",
+      "Nama Produk": "Cuko Pempek Palembang 150 ML Gula batok asli Linggau",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 0.0,
+      "Username (Pembeli)": "kadobasorak",
+      "Kota/Kabupaten": "KAB. TEBO"
+    },
+    {
+      "No. Pesanan": "24091770DHY96Q",
+      "Waktu Pesanan Dibuat": "2024-09-17 09:56",
+      "Nama Produk": "Pempek Tenggiri Super Premium Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 73.5,
+      "Username (Pembeli)": "ubl18cgrna",
+      "Kota/Kabupaten": "KOTA JAMBI"
+    },
+    {
+      "No. Pesanan": "24091770DHY96Q",
+      "Waktu Pesanan Dibuat": "2024-09-17 09:56",
+      "Nama Produk": "Cuko Pempek Palembang 150 ML Gula batok asli Linggau",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 73.5,
+      "Username (Pembeli)": "ubl18cgrna",
+      "Kota/Kabupaten": "KOTA JAMBI"
+    },
+    {
+      "No. Pesanan": "2409177NF32NHT",
+      "Waktu Pesanan Dibuat": "2024-09-17 16:12",
+      "Nama Produk": "Pempek Tenggiri Super Premium Murah  AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 97.0,
+      "Username (Pembeli)": "zds_yaado8",
+      "Kota/Kabupaten": "KOTA PALEMBANG"
+    },
+    {
+      "No. Pesanan": "2409188PB0VY5A",
+      "Waktu Pesanan Dibuat": "2024-09-18 02:01",
+      "Nama Produk": "Pempek Tenggiri Super Premium Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 0.0,
+      "Username (Pembeli)": "kadobasorak",
+      "Kota/Kabupaten": "KAB. TEBO"
+    },
+    {
+      "No. Pesanan": "2409188PB0VY5A",
+      "Waktu Pesanan Dibuat": "2024-09-18 02:01",
+      "Nama Produk": "Cuko Pempek Palembang 150 ML Gula batok asli Linggau",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 0.0,
+      "Username (Pembeli)": "kadobasorak",
+      "Kota/Kabupaten": "KAB. TEBO"
+    },
+    {
+      "No. Pesanan": "240919B8D6KRG2",
+      "Waktu Pesanan Dibuat": "2024-09-19 02:29",
+      "Nama Produk": "Pempek Tenggiri Super Premium Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 88.0,
+      "Username (Pembeli)": "kadobasorak",
+      "Kota/Kabupaten": "KAB. TEBO"
+    },
+    {
+      "No. Pesanan": "240919B8D6KRG2",
+      "Waktu Pesanan Dibuat": "2024-09-19 02:29",
+      "Nama Produk": "Cuko Pempek Palembang 150 ML Gula batok asli Linggau",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 88.0,
+      "Username (Pembeli)": "kadobasorak",
+      "Kota/Kabupaten": "KAB. TEBO"
+    },
+    {
+      "No. Pesanan": "240920F6ADFGTT",
+      "Waktu Pesanan Dibuat": "2024-09-20 16:03",
+      "Nama Produk": "Pempek Tenggiri Super Premium Murah  AlKindi 10 pcs Palembang Asli SIZE MEDIUM Lenjer, Kulit & Telur",
+      "Nama Variasi": "Adaan + Kulit,Lenjer + Telur",
+      "Jumlah": 3,
+      "Total Pembayaran": 137.0,
+      "Username (Pembeli)": "ramadhaniputri_1005",
+      "Kota/Kabupaten": "KOTA PADANG"
+    },
+    {
+      "No. Pesanan": "2408028EMF3CW5",
+      "Waktu Pesanan Dibuat": "2024-08-02 16:36",
+      "Nama Produk": "Pempek Steril AlKindi 20 pcs Ukuran MEDIUM/KENYANG Pempek Lenjer, Adaan, Telur dan Kulit",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 159.5,
+      "Username (Pembeli)": "magda_bacas",
+      "Kota/Kabupaten": "KOTA JAKARTA TIMUR"
+    },
+    {
+      "No. Pesanan": "2408028EMF3CW5",
+      "Waktu Pesanan Dibuat": "2024-08-02 16:36",
+      "Nama Produk": "Pempek Kapal Selam Jumbo Steril 5 pcs AlKindi",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 159.5,
+      "Username (Pembeli)": "magda_bacas",
+      "Kota/Kabupaten": "KOTA JAKARTA TIMUR"
+    },
+    {
+      "No. Pesanan": "240803A83DK4RQ",
+      "Waktu Pesanan Dibuat": "2024-08-03 09:45",
+      "Nama Produk": "30 Pcs Pempek Vaccum Tahan 3 Hari ( Adaan, Lenjer, Kulit,Dan Adaan)",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 156.0,
+      "Username (Pembeli)": "nayusholikhin738",
+      "Kota/Kabupaten": "KAB. MALANG"
+    },
+    {
+      "No. Pesanan": "240804CN7ADQ8J",
+      "Waktu Pesanan Dibuat": "2024-08-04 08:45",
+      "Nama Produk": "Pempek Steril AlKindi 20 pcs Ukuran MINI Pempek Lenjer, Adaan, Telur dan Kulit",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 0.0,
+      "Username (Pembeli)": "niki31",
+      "Kota/Kabupaten": "KOTA DEPOK"
+    },
+    {
+      "No. Pesanan": "240805G1AWP6TG",
+      "Waktu Pesanan Dibuat": "2024-08-05 16:59",
+      "Nama Produk": "Pempek Tenggiri Super Premium Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 147.0,
+      "Username (Pembeli)": "widyasari78",
+      "Kota/Kabupaten": "KAB. PURBALINGGA"
+    },
+    {
+      "No. Pesanan": "240805G1AWP6TG",
+      "Waktu Pesanan Dibuat": "2024-08-05 16:59",
+      "Nama Produk": "Pempek AlKindi Kerupuk Kancing Super Grade A 200gr",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 147.0,
+      "Username (Pembeli)": "widyasari78",
+      "Kota/Kabupaten": "KAB. PURBALINGGA"
+    },
+    {
+      "No. Pesanan": "240805G1AWP6TG",
+      "Waktu Pesanan Dibuat": "2024-08-05 16:59",
+      "Nama Produk": "Cuko Pempek Palembang 150 ML Gula batok asli Linggau",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 147.0,
+      "Username (Pembeli)": "widyasari78",
+      "Kota/Kabupaten": "KAB. PURBALINGGA"
+    },
+    {
+      "No. Pesanan": "240805G1AWP6TG",
+      "Waktu Pesanan Dibuat": "2024-08-05 16:59",
+      "Nama Produk": "Pempek Tenggiri Super Premium Murah  AlKindi 10 pcs Palembang Asli SIZE MEDIUM Lenjer, Kulit & Telur",
+      "Nama Variasi": "Adaan + Kulit,Lenjer + Telur",
+      "Jumlah": 1,
+      "Total Pembayaran": 147.0,
+      "Username (Pembeli)": "widyasari78",
+      "Kota/Kabupaten": "KAB. PURBALINGGA"
+    },
+    {
+      "No. Pesanan": "240805G2AVY2CV",
+      "Waktu Pesanan Dibuat": "2024-08-05 17:17",
+      "Nama Produk": "Pempek Tenggiri Super Premium Murah  AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 97.0,
+      "Username (Pembeli)": "kasandramory",
+      "Kota/Kabupaten": "KOTA JAKARTA SELATAN"
+    },
+    {
+      "No. Pesanan": "240806JGNU4VNN",
+      "Waktu Pesanan Dibuat": "2024-08-06 16:39",
+      "Nama Produk": "Pempek Tenggiri Super Premium Murah  AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 0.0,
+      "Username (Pembeli)": "snzakiah84",
+      "Kota/Kabupaten": "KAB. TANGERANG"
+    },
+    {
+      "No. Pesanan": "240808PM1A4U3H",
+      "Waktu Pesanan Dibuat": "2024-08-08 07:50",
+      "Nama Produk": "Pempek Tenggiri Super Premium Murah  AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 99.25,
+      "Username (Pembeli)": "fatham_dijahm",
+      "Kota/Kabupaten": "KAB. LUWU UTARA"
+    },
+    {
+      "No. Pesanan": "240808QCGGPRN4",
+      "Waktu Pesanan Dibuat": "2024-08-08 15:08",
+      "Nama Produk": "Pempek Tenggiri Super Premium Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 89.875,
+      "Username (Pembeli)": "indoaksesoris88",
+      "Kota/Kabupaten": "KOTA PALEMBANG"
+    },
+    {
+      "No. Pesanan": "240808QCGGPRN4",
+      "Waktu Pesanan Dibuat": "2024-08-08 15:08",
+      "Nama Produk": "Pempek Tenggiri Super Premium Murah  AlKindi 10 pcs Palembang Asli SIZE MEDIUM Lenjer, Kulit & Telur",
+      "Nama Variasi": "Adaan + Kulit,Lenjer + Telur",
+      "Jumlah": 1,
+      "Total Pembayaran": 89.875,
+      "Username (Pembeli)": "indoaksesoris88",
+      "Kota/Kabupaten": "KOTA PALEMBANG"
+    },
+    {
+      "No. Pesanan": "240809SG9PUAS9",
+      "Waktu Pesanan Dibuat": "2024-08-09 11:21",
+      "Nama Produk": "Cuko Pempek Palembang 150 ML Gula batok asli Linggau",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 150.0,
+      "Username (Pembeli)": "r0mfv9flby",
+      "Kota/Kabupaten": "KOTA SUBULUSSALAM"
+    },
+    {
+      "No. Pesanan": "240809SG9PUAS9",
+      "Waktu Pesanan Dibuat": "2024-08-09 11:21",
+      "Nama Produk": "Pempek Tenggiri Super Premium Murah  AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 150.0,
+      "Username (Pembeli)": "r0mfv9flby",
+      "Kota/Kabupaten": "KOTA SUBULUSSALAM"
+    },
+    {
+      "No. Pesanan": "240809SGE1440W",
+      "Waktu Pesanan Dibuat": "2024-08-09 11:24",
+      "Nama Produk": "Pempek Tenggiri Super Premium Murah  AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 130.0,
+      "Username (Pembeli)": "r0mfv9flby",
+      "Kota/Kabupaten": "KOTA SUBULUSSALAM"
+    },
+    {
+      "No. Pesanan": "24081125U8NP06",
+      "Waktu Pesanan Dibuat": "2024-08-11 18:30",
+      "Nama Produk": "Pempek Tenggiri Super Premium Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 52.0,
+      "Username (Pembeli)": "uneesunarto23",
+      "Kota/Kabupaten": "KOTA SURABAYA"
+    },
+    {
+      "No. Pesanan": "2408112CNQ1WT4",
+      "Waktu Pesanan Dibuat": "2024-08-11 20:32",
+      "Nama Produk": "Pempek Tenggiri Super Premium Murah  AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 87.128,
+      "Username (Pembeli)": "nadyapmita07",
+      "Kota/Kabupaten": "KOTA SURABAYA"
+    },
+    {
+      "No. Pesanan": "2408112EDYKEE5",
+      "Waktu Pesanan Dibuat": "2024-08-11 21:03",
+      "Nama Produk": "Pempek Tenggiri Super Premium Murah  AlKindi 20 pcs Palembang Asli SIZE MEDIUM Lenjer, Kulit & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 213.372,
+      "Username (Pembeli)": "salmnn_",
+      "Kota/Kabupaten": "KAB. PONTIANAK"
+    },
+    {
+      "No. Pesanan": "2408112EDYKEE5",
+      "Waktu Pesanan Dibuat": "2024-08-11 21:03",
+      "Nama Produk": "Pempek Tenggiri Super Premium Murah  AlKindi 5 pcs Palembang Asli SIZE JUMBO KAPAL SELAM",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 213.372,
+      "Username (Pembeli)": "salmnn_",
+      "Kota/Kabupaten": "KAB. PONTIANAK"
+    },
+    {
+      "No. Pesanan": "24081251SNVMTT",
+      "Waktu Pesanan Dibuat": "2024-08-12 21:55",
+      "Nama Produk": "Pempek Tenggiri Super Premium Murah  AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 2,
+      "Total Pembayaran": 203.65,
+      "Username (Pembeli)": "jpurnamadress",
+      "Kota/Kabupaten": "KOTA MEDAN"
+    },
+    {
+      "No. Pesanan": "24081356M6PJ5D",
+      "Waktu Pesanan Dibuat": "2024-08-12 23:21",
+      "Nama Produk": "Pempek AlKindi Kerupuk Kancing Super Grade A 200gr",
+      "Nama Variasi": "",
+      "Jumlah": 3,
+      "Total Pembayaran": 92.0,
+      "Username (Pembeli)": "achfad",
+      "Kota/Kabupaten": "KOTA JAKARTA TIMUR"
+    },
+    {
+      "No. Pesanan": "2408149MDQDSWF",
+      "Waktu Pesanan Dibuat": "2024-08-14 17:39",
+      "Nama Produk": "Pempek Tenggiri Super Premium Murah  AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 97.0,
+      "Username (Pembeli)": "ibnu_fadh",
+      "Kota/Kabupaten": "KAB. KARAWANG"
+    },
+    {
+      "No. Pesanan": "240817GUBGGBHN",
+      "Waktu Pesanan Dibuat": "2024-08-17 14:32",
+      "Nama Produk": "Pempek Tenggiri Super Premium Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 2,
+      "Total Pembayaran": 102.0,
+      "Username (Pembeli)": "endah_dandi12",
+      "Kota/Kabupaten": "KOTA BEKASI"
+    },
+    {
+      "No. Pesanan": "240821TXTQ6JG8",
+      "Waktu Pesanan Dibuat": "2024-08-21 15:01",
+      "Nama Produk": "Pempek Tenggiri Super Premium Murah  AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 96.0,
+      "Username (Pembeli)": "jpurnamadress",
+      "Kota/Kabupaten": "KOTA MEDAN"
+    },
+    {
+      "No. Pesanan": "2408232HSWUWPJ",
+      "Waktu Pesanan Dibuat": "2024-08-23 11:50",
+      "Nama Produk": "Pempek Tenggiri Super Premium Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 0.0,
+      "Username (Pembeli)": "lobdu",
+      "Kota/Kabupaten": "KAB. BANDUNG"
+    },
+    {
+      "No. Pesanan": "2408232KXRUH62",
+      "Waktu Pesanan Dibuat": "2024-08-23 12:29",
+      "Nama Produk": "Pempek Tenggiri Super Premium Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 184.0,
+      "Username (Pembeli)": "achmadfikrifaqih",
+      "Kota/Kabupaten": "KAB. BOGOR"
+    },
+    {
+      "No. Pesanan": "2408232KXRUH62",
+      "Waktu Pesanan Dibuat": "2024-08-23 12:29",
+      "Nama Produk": "Pempek Tenggiri Super Premium Murah  AlKindi 5 pcs Palembang Asli SIZE JUMBO KAPAL SELAM",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 184.0,
+      "Username (Pembeli)": "achmadfikrifaqih",
+      "Kota/Kabupaten": "KAB. BOGOR"
+    },
+    {
+      "No. Pesanan": "2408232KXRUH62",
+      "Waktu Pesanan Dibuat": "2024-08-23 12:29",
+      "Nama Produk": "Pempek Tenggiri Super Premium Murah  AlKindi 10 pcs Palembang Asli SIZE MEDIUM Lenjer, Kulit & Telur",
+      "Nama Variasi": "Adaan + Kulit,Lenjer + Telur",
+      "Jumlah": 1,
+      "Total Pembayaran": 184.0,
+      "Username (Pembeli)": "achmadfikrifaqih",
+      "Kota/Kabupaten": "KAB. BOGOR"
+    },
+    {
+      "No. Pesanan": "240827C3B3WGRH",
+      "Waktu Pesanan Dibuat": "2024-08-27 06:58",
+      "Nama Produk": "Pempek Tenggiri Super Premium Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 231.95,
+      "Username (Pembeli)": "achmadfikrifaqih",
+      "Kota/Kabupaten": "KAB. BOGOR"
+    },
+    {
+      "No. Pesanan": "240827C3B3WGRH",
+      "Waktu Pesanan Dibuat": "2024-08-27 06:58",
+      "Nama Produk": "Pempek Tenggiri Super Premium Murah  AlKindi 20 pcs Palembang Asli SIZE MEDIUM Lenjer, Kulit & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 231.95,
+      "Username (Pembeli)": "achmadfikrifaqih",
+      "Kota/Kabupaten": "KAB. BOGOR"
+    },
+    {
+      "No. Pesanan": "240827C3B3WGRH",
+      "Waktu Pesanan Dibuat": "2024-08-27 06:58",
+      "Nama Produk": "Pempek Tenggiri Super Premium Murah  AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 231.95,
+      "Username (Pembeli)": "achmadfikrifaqih",
+      "Kota/Kabupaten": "KAB. BOGOR"
+    },
+    {
+      "No. Pesanan": "240828F2KK7C33",
+      "Waktu Pesanan Dibuat": "2024-08-28 11:23",
+      "Nama Produk": "Pempek Tenggiri Super Premium Murah  AlKindi 10 pcs Palembang Asli SIZE MEDIUM Lenjer, Kulit & Telur",
+      "Nama Variasi": "Adaan + Kulit,Lenjer + Telur",
+      "Jumlah": 1,
+      "Total Pembayaran": 58.0,
+      "Username (Pembeli)": "luanawin8",
+      "Kota/Kabupaten": "KAB. BADUNG"
+    },
+    {
+      "No. Pesanan": "240829JB97EYFR",
+      "Waktu Pesanan Dibuat": "2024-08-29 18:36",
+      "Nama Produk": "Pempek Tenggiri Super Premium Murah  AlKindi 20 pcs Palembang Asli SIZE MEDIUM Lenjer, Kulit & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 0.0,
+      "Username (Pembeli)": "magda_bacas",
+      "Kota/Kabupaten": "KOTA JAKARTA TIMUR"
+    },
+    {
+      "No. Pesanan": "240829JB97EYFR",
+      "Waktu Pesanan Dibuat": "2024-08-29 18:36",
+      "Nama Produk": "Pempek Tenggiri Super Premium Murah  AlKindi 5 pcs Palembang Asli SIZE JUMBO KAPAL SELAM",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 0.0,
+      "Username (Pembeli)": "magda_bacas",
+      "Kota/Kabupaten": "KOTA JAKARTA TIMUR"
+    },
+    {
+      "No. Pesanan": "240831P53FUT4P",
+      "Waktu Pesanan Dibuat": "2024-08-31 06:56",
+      "Nama Produk": "Pempek Tenggiri Super Premium Murah  AlKindi 10 pcs Palembang Asli SIZE MEDIUM Lenjer, Kulit & Telur",
+      "Nama Variasi": "Adaan + Kulit,Lenjer + Telur",
+      "Jumlah": 2,
+      "Total Pembayaran": 211.0,
+      "Username (Pembeli)": "ramadhaniputri_1005",
+      "Kota/Kabupaten": "KOTA PADANG"
+    },
+    {
+      "No. Pesanan": "240831P53FUT4P",
+      "Waktu Pesanan Dibuat": "2024-08-31 06:56",
+      "Nama Produk": "Pempek Tenggiri Super Premium Murah  AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 211.0,
+      "Username (Pembeli)": "ramadhaniputri_1005",
+      "Kota/Kabupaten": "KOTA PADANG"
+    },
+    {
+      "No. Pesanan": "2407107WF08PDD",
+      "Waktu Pesanan Dibuat": "2024-07-10 07:56",
+      "Nama Produk": "Pempek Steril AlKindi 10 pcs Ukuran MEDIUM/KENYANG Pempek Lenjer, Adaan, Telur dan Kulit",
+      "Nama Variasi": "Adaan + Kulit,Lenjer + Telur",
+      "Jumlah": 1,
+      "Total Pembayaran": 176.0,
+      "Username (Pembeli)": "ftmh0311",
+      "Kota/Kabupaten": "KAB. NGAWI"
+    },
+    {
+      "No. Pesanan": "2407107WF08PDD",
+      "Waktu Pesanan Dibuat": "2024-07-10 07:56",
+      "Nama Produk": "Pempek Steril AlKindi 40 pcs Ukuran MINI Pempek Lenjer, Adaan, Telur dan Kulit",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 176.0,
+      "Username (Pembeli)": "ftmh0311",
+      "Kota/Kabupaten": "KAB. NGAWI"
+    },
+    {
+      "No. Pesanan": "240713FYVMP7S7",
+      "Waktu Pesanan Dibuat": "2024-07-13 13:00",
+      "Nama Produk": "Pempek Steril AlKindi 10 pcs Ukuran MEDIUM/KENYANG Pempek Lenjer, Adaan, Telur dan Kulit",
+      "Nama Variasi": "Adaan + Kulit,Lenjer + Telur",
+      "Jumlah": 3,
+      "Total Pembayaran": 137.5,
+      "Username (Pembeli)": "ekahidayatiiik",
+      "Kota/Kabupaten": "KAB. TANGGAMUS"
+    },
+    {
+      "No. Pesanan": "240725GSCBND12",
+      "Waktu Pesanan Dibuat": "2024-07-25 10:23",
+      "Nama Produk": "Pempek Steril AlKindi 20 pcs Ukuran MINI Pempek Lenjer, Adaan, Telur dan Kulit",
+      "Nama Variasi": "",
+      "Jumlah": 2,
+      "Total Pembayaran": 97.0,
+      "Username (Pembeli)": "estiauliya",
+      "Kota/Kabupaten": "KOTA JAKARTA SELATAN"
+    },
+    {
+      "No. Pesanan": "240726KGGS71U8",
+      "Waktu Pesanan Dibuat": "2024-07-26 12:22",
+      "Nama Produk": "Pempek AlKindi Kerupuk Kancing Super Grade A 200gr",
+      "Nama Variasi": "",
+      "Jumlah": 2,
+      "Total Pembayaran": 175.634,
+      "Username (Pembeli)": "rossydwidevitasaristfre",
+      "Kota/Kabupaten": "KOTA JAKARTA SELATAN"
+    },
+    {
+      "No. Pesanan": "240726KGGS71U8",
+      "Waktu Pesanan Dibuat": "2024-07-26 12:22",
+      "Nama Produk": "Cuko Pempek Palembang 150 ML Gula batok asli Linggau",
+      "Nama Variasi": "",
+      "Jumlah": 2,
+      "Total Pembayaran": 175.634,
+      "Username (Pembeli)": "rossydwidevitasaristfre",
+      "Kota/Kabupaten": "KOTA JAKARTA SELATAN"
+    },
+    {
+      "No. Pesanan": "240726KGGS71U8",
+      "Waktu Pesanan Dibuat": "2024-07-26 12:22",
+      "Nama Produk": "Pempek Steril AlKindi 40 pcs Ukuran MINI Pempek Lenjer, Adaan, Telur dan Kulit",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 175.634,
+      "Username (Pembeli)": "rossydwidevitasaristfre",
+      "Kota/Kabupaten": "KOTA JAKARTA SELATAN"
+    },
+    {
+      "No. Pesanan": "240728RB3NKEUR",
+      "Waktu Pesanan Dibuat": "2024-07-28 10:29",
+      "Nama Produk": "Pempek Steril AlKindi 40 pcs Ukuran MINI Pempek Lenjer, Adaan, Telur dan Kulit",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 97.0,
+      "Username (Pembeli)": "ikmahtoik",
+      "Kota/Kabupaten": "KAB. GARUT"
+    },
+    {
+      "No. Pesanan": "240728RX2HA7GN",
+      "Waktu Pesanan Dibuat": "2024-07-28 16:08",
+      "Nama Produk": "Pempek Kapal Selam Jumbo Steril 5 pcs AlKindi",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 202.0,
+      "Username (Pembeli)": "naylahusna540",
+      "Kota/Kabupaten": "KOTA SURAKARTA (SOLO)"
+    },
+    {
+      "No. Pesanan": "240728RX2HA7GN",
+      "Waktu Pesanan Dibuat": "2024-07-28 16:08",
+      "Nama Produk": "Pempek Steril AlKindi 40 pcs Ukuran MINI Pempek Lenjer, Adaan, Telur dan Kulit",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 202.0,
+      "Username (Pembeli)": "naylahusna540",
+      "Kota/Kabupaten": "KOTA SURAKARTA (SOLO)"
+    },
+    {
+      "No. Pesanan": "240729UA9UHGGD",
+      "Waktu Pesanan Dibuat": "2024-07-29 14:53",
+      "Nama Produk": "Pempek Steril AlKindi 20 pcs Ukuran MINI Pempek Lenjer, Adaan, Telur dan Kulit",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 52.0,
+      "Username (Pembeli)": "naylahusna540",
+      "Kota/Kabupaten": "KAB. OGAN ILIR"
+    },
+    {
+      "No. Pesanan": "2407313NWBTNXS",
+      "Waktu Pesanan Dibuat": "2024-07-31 19:03",
+      "Nama Produk": "Pempek Steril AlKindi 20 pcs Ukuran MINI Pempek Lenjer, Adaan, Telur dan Kulit",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 0.0,
+      "Username (Pembeli)": "apt13_93",
+      "Kota/Kabupaten": "KAB. BANYUMAS"
+    }
+  ],
+  "mba": {
+    "description": "Market Basket Analysis - Association Rules",
+    "total_rules": 76,
+    "item_frequency": [
+      {
+        "product": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+        "count": 143,
+        "support": 0.44
+      },
+      {
+        "product": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+        "count": 85,
+        "support": 0.2615
+      },
+      {
+        "product": "Pempek Tenggiri Super Premium Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+        "count": 33,
+        "support": 0.1015
+      },
+      {
+        "product": "Pempek Palembang Asli Super Murah AlKindi 10 pcs Palembang Asli SIZE MEDIUM Lenjer, Kulit & Telur",
+        "count": 27,
+        "support": 0.0831
+      },
+      {
+        "product": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MEDIUM Lenjer, Kulit & Telur",
+        "count": 22,
+        "support": 0.0677
+      },
+      {
+        "product": "Pempek Tenggiri Super Premium Murah  AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+        "count": 21,
+        "support": 0.0646
+      },
+      {
+        "product": "Cuko Pempek Palembang 150 ML Gula batok asli Linggau",
+        "count": 17,
+        "support": 0.0523
+      },
+      {
+        "product": "Pempek Tenggiri Super Premium Murah  AlKindi 10 pcs Palembang Asli SIZE MEDIUM Lenjer, Kulit & Telur",
+        "count": 12,
+        "support": 0.0369
+      },
+      {
+        "product": "Pempek Kulit Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli",
+        "count": 7,
+        "support": 0.0215
+      },
+      {
+        "product": "Pempek Tenggiri Super Premium Murah  AlKindi 20 pcs Palembang Asli SIZE MEDIUM Lenjer, Kulit & Telur",
+        "count": 6,
+        "support": 0.0185
+      },
+      {
+        "product": "Sterofoam Extra",
+        "count": 5,
+        "support": 0.0154
+      },
+      {
+        "product": "Pempek Steril AlKindi 40 pcs Ukuran MINI Pempek Lenjer, Adaan, Telur dan Kulit",
+        "count": 4,
+        "support": 0.0123
+      },
+      {
+        "product": "Pempek Steril AlKindi 20 pcs Ukuran MINI Pempek Lenjer, Adaan, Telur dan Kulit",
+        "count": 4,
+        "support": 0.0123
+      },
+      {
+        "product": "Pempek AlKindi Kerupuk Kancing Super Grade A 200gr",
+        "count": 4,
+        "support": 0.0123
+      },
+      {
+        "product": "Pempek Tenggiri Super Premium Murah  AlKindi 5 pcs Palembang Asli SIZE JUMBO KAPAL SELAM",
+        "count": 4,
+        "support": 0.0123
+      },
+      {
+        "product": "30 Pcs Pempek Vaccum Tahan 3 Hari ( Adaan, Lenjer, Kulit,Dan Adaan)",
+        "count": 3,
+        "support": 0.0092
+      },
+      {
+        "product": "Pempek Steril AlKindi 10 pcs Ukuran MEDIUM/KENYANG Pempek Lenjer, Adaan, Telur dan Kulit",
+        "count": 2,
+        "support": 0.0062
+      },
+      {
+        "product": "Pempek Kapal Selam Jumbo Steril 5 pcs AlKindi",
+        "count": 2,
+        "support": 0.0062
+      },
+      {
+        "product": "Pempek Steril AlKindi 20 pcs Ukuran MEDIUM/KENYANG Pempek Lenjer, Adaan, Telur dan Kulit",
+        "count": 1,
+        "support": 0.0031
+      },
+      {
+        "product": "Pempek KapalSelam Vaccum Tahan 3 Hari",
+        "count": 1,
+        "support": 0.0031
+      }
+    ],
+    "association_rules": [
+      {
+        "antecedent": "Pempek Kapal Selam Jumbo Steril 5 pcs AlKindi",
+        "consequent": "Pempek Steril AlKindi 20 pcs Ukuran MEDIUM/KENYANG Pempek Lenjer, Adaan, Telur dan Kulit",
+        "support": 0.0031,
+        "confidence": 0.5,
+        "lift": 162.5,
+        "pair_count": 1,
+        "antecedent_count": 2,
+        "consequent_count": 1
+      },
+      {
+        "antecedent": "Pempek Steril AlKindi 20 pcs Ukuran MEDIUM/KENYANG Pempek Lenjer, Adaan, Telur dan Kulit",
+        "consequent": "Pempek Kapal Selam Jumbo Steril 5 pcs AlKindi",
+        "support": 0.0031,
+        "confidence": 1.0,
+        "lift": 162.5,
+        "pair_count": 1,
+        "antecedent_count": 1,
+        "consequent_count": 2
+      },
+      {
+        "antecedent": "Pempek Steril AlKindi 10 pcs Ukuran MEDIUM/KENYANG Pempek Lenjer, Adaan, Telur dan Kulit",
+        "consequent": "Pempek Steril AlKindi 40 pcs Ukuran MINI Pempek Lenjer, Adaan, Telur dan Kulit",
+        "support": 0.0031,
+        "confidence": 0.5,
+        "lift": 40.625,
+        "pair_count": 1,
+        "antecedent_count": 2,
+        "consequent_count": 4
+      },
+      {
+        "antecedent": "Pempek Steril AlKindi 40 pcs Ukuran MINI Pempek Lenjer, Adaan, Telur dan Kulit",
+        "consequent": "Pempek Steril AlKindi 10 pcs Ukuran MEDIUM/KENYANG Pempek Lenjer, Adaan, Telur dan Kulit",
+        "support": 0.0031,
+        "confidence": 0.25,
+        "lift": 40.625,
+        "pair_count": 1,
+        "antecedent_count": 4,
+        "consequent_count": 2
+      },
+      {
+        "antecedent": "Pempek Kapal Selam Jumbo Steril 5 pcs AlKindi",
+        "consequent": "Pempek Steril AlKindi 40 pcs Ukuran MINI Pempek Lenjer, Adaan, Telur dan Kulit",
+        "support": 0.0031,
+        "confidence": 0.5,
+        "lift": 40.625,
+        "pair_count": 1,
+        "antecedent_count": 2,
+        "consequent_count": 4
+      },
+      {
+        "antecedent": "Pempek Steril AlKindi 40 pcs Ukuran MINI Pempek Lenjer, Adaan, Telur dan Kulit",
+        "consequent": "Pempek Kapal Selam Jumbo Steril 5 pcs AlKindi",
+        "support": 0.0031,
+        "confidence": 0.25,
+        "lift": 40.625,
+        "pair_count": 1,
+        "antecedent_count": 4,
+        "consequent_count": 2
+      },
+      {
+        "antecedent": "Pempek Tenggiri Super Premium Murah  AlKindi 20 pcs Palembang Asli SIZE MEDIUM Lenjer, Kulit & Telur",
+        "consequent": "Pempek Tenggiri Super Premium Murah  AlKindi 5 pcs Palembang Asli SIZE JUMBO KAPAL SELAM",
+        "support": 0.0062,
+        "confidence": 0.3333,
+        "lift": 27.0833,
+        "pair_count": 2,
+        "antecedent_count": 6,
+        "consequent_count": 4
+      },
+      {
+        "antecedent": "Pempek Tenggiri Super Premium Murah  AlKindi 5 pcs Palembang Asli SIZE JUMBO KAPAL SELAM",
+        "consequent": "Pempek Tenggiri Super Premium Murah  AlKindi 20 pcs Palembang Asli SIZE MEDIUM Lenjer, Kulit & Telur",
+        "support": 0.0062,
+        "confidence": 0.5,
+        "lift": 27.0833,
+        "pair_count": 2,
+        "antecedent_count": 4,
+        "consequent_count": 6
+      },
+      {
+        "antecedent": "Pempek AlKindi Kerupuk Kancing Super Grade A 200gr",
+        "consequent": "Pempek Steril AlKindi 40 pcs Ukuran MINI Pempek Lenjer, Adaan, Telur dan Kulit",
+        "support": 0.0031,
+        "confidence": 0.25,
+        "lift": 20.3125,
+        "pair_count": 1,
+        "antecedent_count": 4,
+        "consequent_count": 4
+      },
+      {
+        "antecedent": "Pempek Steril AlKindi 40 pcs Ukuran MINI Pempek Lenjer, Adaan, Telur dan Kulit",
+        "consequent": "Pempek AlKindi Kerupuk Kancing Super Grade A 200gr",
+        "support": 0.0031,
+        "confidence": 0.25,
+        "lift": 20.3125,
+        "pair_count": 1,
+        "antecedent_count": 4,
+        "consequent_count": 4
+      },
+      {
+        "antecedent": "Cuko Pempek Palembang 150 ML Gula batok asli Linggau",
+        "consequent": "Pempek KapalSelam Vaccum Tahan 3 Hari",
+        "support": 0.0031,
+        "confidence": 0.0588,
+        "lift": 19.1176,
+        "pair_count": 1,
+        "antecedent_count": 17,
+        "consequent_count": 1
+      },
+      {
+        "antecedent": "Pempek KapalSelam Vaccum Tahan 3 Hari",
+        "consequent": "Cuko Pempek Palembang 150 ML Gula batok asli Linggau",
+        "support": 0.0031,
+        "confidence": 1.0,
+        "lift": 19.1176,
+        "pair_count": 1,
+        "antecedent_count": 1,
+        "consequent_count": 17
+      },
+      {
+        "antecedent": "Pempek KapalSelam Vaccum Tahan 3 Hari",
+        "consequent": "Pempek Tenggiri Super Premium Murah  AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+        "support": 0.0031,
+        "confidence": 1.0,
+        "lift": 15.4762,
+        "pair_count": 1,
+        "antecedent_count": 1,
+        "consequent_count": 21
+      },
+      {
+        "antecedent": "Pempek Tenggiri Super Premium Murah  AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+        "consequent": "Pempek KapalSelam Vaccum Tahan 3 Hari",
+        "support": 0.0031,
+        "confidence": 0.0476,
+        "lift": 15.4762,
+        "pair_count": 1,
+        "antecedent_count": 21,
+        "consequent_count": 1
+      },
+      {
+        "antecedent": "Pempek Tenggiri Super Premium Murah  AlKindi 10 pcs Palembang Asli SIZE MEDIUM Lenjer, Kulit & Telur",
+        "consequent": "Pempek Tenggiri Super Premium Murah  AlKindi 5 pcs Palembang Asli SIZE JUMBO KAPAL SELAM",
+        "support": 0.0062,
+        "confidence": 0.1667,
+        "lift": 13.5417,
+        "pair_count": 2,
+        "antecedent_count": 12,
+        "consequent_count": 4
+      },
+      {
+        "antecedent": "Pempek Tenggiri Super Premium Murah  AlKindi 5 pcs Palembang Asli SIZE JUMBO KAPAL SELAM",
+        "consequent": "Pempek Tenggiri Super Premium Murah  AlKindi 10 pcs Palembang Asli SIZE MEDIUM Lenjer, Kulit & Telur",
+        "support": 0.0062,
+        "confidence": 0.5,
+        "lift": 13.5417,
+        "pair_count": 2,
+        "antecedent_count": 4,
+        "consequent_count": 12
+      },
+      {
+        "antecedent": "Cuko Pempek Palembang 150 ML Gula batok asli Linggau",
+        "consequent": "Pempek AlKindi Kerupuk Kancing Super Grade A 200gr",
+        "support": 0.0062,
+        "confidence": 0.1176,
+        "lift": 9.5588,
+        "pair_count": 2,
+        "antecedent_count": 17,
+        "consequent_count": 4
+      },
+      {
+        "antecedent": "Pempek AlKindi Kerupuk Kancing Super Grade A 200gr",
+        "consequent": "Cuko Pempek Palembang 150 ML Gula batok asli Linggau",
+        "support": 0.0062,
+        "confidence": 0.5,
+        "lift": 9.5588,
+        "pair_count": 2,
+        "antecedent_count": 4,
+        "consequent_count": 17
+      },
+      {
+        "antecedent": "Pempek Kulit Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli",
+        "consequent": "Sterofoam Extra",
+        "support": 0.0031,
+        "confidence": 0.1429,
+        "lift": 9.2857,
+        "pair_count": 1,
+        "antecedent_count": 7,
+        "consequent_count": 5
+      },
+      {
+        "antecedent": "Sterofoam Extra",
+        "consequent": "Pempek Kulit Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli",
+        "support": 0.0031,
+        "confidence": 0.2,
+        "lift": 9.2857,
+        "pair_count": 1,
+        "antecedent_count": 5,
+        "consequent_count": 7
+      },
+      {
+        "antecedent": "Pempek AlKindi Kerupuk Kancing Super Grade A 200gr",
+        "consequent": "Pempek Tenggiri Super Premium Murah  AlKindi 10 pcs Palembang Asli SIZE MEDIUM Lenjer, Kulit & Telur",
+        "support": 0.0031,
+        "confidence": 0.25,
+        "lift": 6.7708,
+        "pair_count": 1,
+        "antecedent_count": 4,
+        "consequent_count": 12
+      },
+      {
+        "antecedent": "Pempek Tenggiri Super Premium Murah  AlKindi 10 pcs Palembang Asli SIZE MEDIUM Lenjer, Kulit & Telur",
+        "consequent": "Pempek AlKindi Kerupuk Kancing Super Grade A 200gr",
+        "support": 0.0031,
+        "confidence": 0.0833,
+        "lift": 6.7708,
+        "pair_count": 1,
+        "antecedent_count": 12,
+        "consequent_count": 4
+      },
+      {
+        "antecedent": "Pempek Tenggiri Super Premium Murah  AlKindi 10 pcs Palembang Asli SIZE MEDIUM Lenjer, Kulit & Telur",
+        "consequent": "Pempek Tenggiri Super Premium Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+        "support": 0.0185,
+        "confidence": 0.5,
+        "lift": 4.9242,
+        "pair_count": 6,
+        "antecedent_count": 12,
+        "consequent_count": 33
+      },
+      {
+        "antecedent": "Pempek Tenggiri Super Premium Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+        "consequent": "Pempek Tenggiri Super Premium Murah  AlKindi 10 pcs Palembang Asli SIZE MEDIUM Lenjer, Kulit & Telur",
+        "support": 0.0185,
+        "confidence": 0.1818,
+        "lift": 4.9242,
+        "pair_count": 6,
+        "antecedent_count": 33,
+        "consequent_count": 12
+      },
+      {
+        "antecedent": "Cuko Pempek Palembang 150 ML Gula batok asli Linggau",
+        "consequent": "Pempek Steril AlKindi 40 pcs Ukuran MINI Pempek Lenjer, Adaan, Telur dan Kulit",
+        "support": 0.0031,
+        "confidence": 0.0588,
+        "lift": 4.7794,
+        "pair_count": 1,
+        "antecedent_count": 17,
+        "consequent_count": 4
+      },
+      {
+        "antecedent": "Pempek Steril AlKindi 40 pcs Ukuran MINI Pempek Lenjer, Adaan, Telur dan Kulit",
+        "consequent": "Cuko Pempek Palembang 150 ML Gula batok asli Linggau",
+        "support": 0.0031,
+        "confidence": 0.25,
+        "lift": 4.7794,
+        "pair_count": 1,
+        "antecedent_count": 4,
+        "consequent_count": 17
+      },
+      {
+        "antecedent": "Pempek AlKindi Kerupuk Kancing Super Grade A 200gr",
+        "consequent": "Pempek Tenggiri Super Premium Murah  AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+        "support": 0.0031,
+        "confidence": 0.25,
+        "lift": 3.869,
+        "pair_count": 1,
+        "antecedent_count": 4,
+        "consequent_count": 21
+      },
+      {
+        "antecedent": "Pempek Tenggiri Super Premium Murah  AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+        "consequent": "Pempek AlKindi Kerupuk Kancing Super Grade A 200gr",
+        "support": 0.0031,
+        "confidence": 0.0476,
+        "lift": 3.869,
+        "pair_count": 1,
+        "antecedent_count": 21,
+        "consequent_count": 4
+      },
+      {
+        "antecedent": "Cuko Pempek Palembang 150 ML Gula batok asli Linggau",
+        "consequent": "Pempek Tenggiri Super Premium Murah  AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+        "support": 0.0123,
+        "confidence": 0.2353,
+        "lift": 3.6415,
+        "pair_count": 4,
+        "antecedent_count": 17,
+        "consequent_count": 21
+      },
+      {
+        "antecedent": "Pempek Tenggiri Super Premium Murah  AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+        "consequent": "Cuko Pempek Palembang 150 ML Gula batok asli Linggau",
+        "support": 0.0123,
+        "confidence": 0.1905,
+        "lift": 3.6415,
+        "pair_count": 4,
+        "antecedent_count": 21,
+        "consequent_count": 17
+      },
+      {
+        "antecedent": "Cuko Pempek Palembang 150 ML Gula batok asli Linggau",
+        "consequent": "Pempek Tenggiri Super Premium Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+        "support": 0.0185,
+        "confidence": 0.3529,
+        "lift": 3.4759,
+        "pair_count": 6,
+        "antecedent_count": 17,
+        "consequent_count": 33
+      },
+      {
+        "antecedent": "Pempek Tenggiri Super Premium Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+        "consequent": "Cuko Pempek Palembang 150 ML Gula batok asli Linggau",
+        "support": 0.0185,
+        "confidence": 0.1818,
+        "lift": 3.4759,
+        "pair_count": 6,
+        "antecedent_count": 33,
+        "consequent_count": 17
+      },
+      {
+        "antecedent": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MEDIUM Lenjer, Kulit & Telur",
+        "consequent": "Sterofoam Extra",
+        "support": 0.0031,
+        "confidence": 0.0455,
+        "lift": 2.9545,
+        "pair_count": 1,
+        "antecedent_count": 22,
+        "consequent_count": 5
+      },
+      {
+        "antecedent": "Sterofoam Extra",
+        "consequent": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MEDIUM Lenjer, Kulit & Telur",
+        "support": 0.0031,
+        "confidence": 0.2,
+        "lift": 2.9545,
+        "pair_count": 1,
+        "antecedent_count": 5,
+        "consequent_count": 22
+      },
+      {
+        "antecedent": "Pempek Tenggiri Super Premium Murah  AlKindi 20 pcs Palembang Asli SIZE MEDIUM Lenjer, Kulit & Telur",
+        "consequent": "Pempek Tenggiri Super Premium Murah  AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+        "support": 0.0031,
+        "confidence": 0.1667,
+        "lift": 2.5794,
+        "pair_count": 1,
+        "antecedent_count": 6,
+        "consequent_count": 21
+      },
+      {
+        "antecedent": "Pempek Tenggiri Super Premium Murah  AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+        "consequent": "Pempek Tenggiri Super Premium Murah  AlKindi 20 pcs Palembang Asli SIZE MEDIUM Lenjer, Kulit & Telur",
+        "support": 0.0031,
+        "confidence": 0.0476,
+        "lift": 2.5794,
+        "pair_count": 1,
+        "antecedent_count": 21,
+        "consequent_count": 6
+      },
+      {
+        "antecedent": "Pempek AlKindi Kerupuk Kancing Super Grade A 200gr",
+        "consequent": "Pempek Tenggiri Super Premium Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+        "support": 0.0031,
+        "confidence": 0.25,
+        "lift": 2.4621,
+        "pair_count": 1,
+        "antecedent_count": 4,
+        "consequent_count": 33
+      },
+      {
+        "antecedent": "Pempek Tenggiri Super Premium Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+        "consequent": "Pempek AlKindi Kerupuk Kancing Super Grade A 200gr",
+        "support": 0.0031,
+        "confidence": 0.0303,
+        "lift": 2.4621,
+        "pair_count": 1,
+        "antecedent_count": 33,
+        "consequent_count": 4
+      },
+      {
+        "antecedent": "Pempek Tenggiri Super Premium Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+        "consequent": "Pempek Tenggiri Super Premium Murah  AlKindi 5 pcs Palembang Asli SIZE JUMBO KAPAL SELAM",
+        "support": 0.0031,
+        "confidence": 0.0303,
+        "lift": 2.4621,
+        "pair_count": 1,
+        "antecedent_count": 33,
+        "consequent_count": 4
+      },
+      {
+        "antecedent": "Pempek Tenggiri Super Premium Murah  AlKindi 5 pcs Palembang Asli SIZE JUMBO KAPAL SELAM",
+        "consequent": "Pempek Tenggiri Super Premium Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+        "support": 0.0031,
+        "confidence": 0.25,
+        "lift": 2.4621,
+        "pair_count": 1,
+        "antecedent_count": 4,
+        "consequent_count": 33
+      },
+      {
+        "antecedent": "Pempek Kulit Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli",
+        "consequent": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MEDIUM Lenjer, Kulit & Telur",
+        "support": 0.0031,
+        "confidence": 0.1429,
+        "lift": 2.1104,
+        "pair_count": 1,
+        "antecedent_count": 7,
+        "consequent_count": 22
+      },
+      {
+        "antecedent": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MEDIUM Lenjer, Kulit & Telur",
+        "consequent": "Pempek Kulit Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli",
+        "support": 0.0031,
+        "confidence": 0.0455,
+        "lift": 2.1104,
+        "pair_count": 1,
+        "antecedent_count": 22,
+        "consequent_count": 7
+      },
+      {
+        "antecedent": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+        "consequent": "Sterofoam Extra",
+        "support": 0.0123,
+        "confidence": 0.028,
+        "lift": 1.8182,
+        "pair_count": 4,
+        "antecedent_count": 143,
+        "consequent_count": 5
+      },
+      {
+        "antecedent": "Sterofoam Extra",
+        "consequent": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+        "support": 0.0123,
+        "confidence": 0.8,
+        "lift": 1.8182,
+        "pair_count": 4,
+        "antecedent_count": 5,
+        "consequent_count": 143
+      },
+      {
+        "antecedent": "Pempek Tenggiri Super Premium Murah  AlKindi 20 pcs Palembang Asli SIZE MEDIUM Lenjer, Kulit & Telur",
+        "consequent": "Pempek Tenggiri Super Premium Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+        "support": 0.0031,
+        "confidence": 0.1667,
+        "lift": 1.6414,
+        "pair_count": 1,
+        "antecedent_count": 6,
+        "consequent_count": 33
+      },
+      {
+        "antecedent": "Pempek Tenggiri Super Premium Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+        "consequent": "Pempek Tenggiri Super Premium Murah  AlKindi 20 pcs Palembang Asli SIZE MEDIUM Lenjer, Kulit & Telur",
+        "support": 0.0031,
+        "confidence": 0.0303,
+        "lift": 1.6414,
+        "pair_count": 1,
+        "antecedent_count": 33,
+        "consequent_count": 6
+      },
+      {
+        "antecedent": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MEDIUM Lenjer, Kulit & Telur",
+        "consequent": "Pempek Palembang Asli Super Murah AlKindi 10 pcs Palembang Asli SIZE MEDIUM Lenjer, Kulit & Telur",
+        "support": 0.0092,
+        "confidence": 0.1364,
+        "lift": 1.6414,
+        "pair_count": 3,
+        "antecedent_count": 22,
+        "consequent_count": 27
+      },
+      {
+        "antecedent": "Pempek Palembang Asli Super Murah AlKindi 10 pcs Palembang Asli SIZE MEDIUM Lenjer, Kulit & Telur",
+        "consequent": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MEDIUM Lenjer, Kulit & Telur",
+        "support": 0.0092,
+        "confidence": 0.1111,
+        "lift": 1.6414,
+        "pair_count": 3,
+        "antecedent_count": 27,
+        "consequent_count": 22
+      },
+      {
+        "antecedent": "Cuko Pempek Palembang 150 ML Gula batok asli Linggau",
+        "consequent": "Pempek Tenggiri Super Premium Murah  AlKindi 10 pcs Palembang Asli SIZE MEDIUM Lenjer, Kulit & Telur",
+        "support": 0.0031,
+        "confidence": 0.0588,
+        "lift": 1.5931,
+        "pair_count": 1,
+        "antecedent_count": 17,
+        "consequent_count": 12
+      },
+      {
+        "antecedent": "Pempek Tenggiri Super Premium Murah  AlKindi 10 pcs Palembang Asli SIZE MEDIUM Lenjer, Kulit & Telur",
+        "consequent": "Cuko Pempek Palembang 150 ML Gula batok asli Linggau",
+        "support": 0.0031,
+        "confidence": 0.0833,
+        "lift": 1.5931,
+        "pair_count": 1,
+        "antecedent_count": 12,
+        "consequent_count": 17
+      },
+      {
+        "antecedent": "Pempek Tenggiri Super Premium Murah  AlKindi 10 pcs Palembang Asli SIZE MEDIUM Lenjer, Kulit & Telur",
+        "consequent": "Pempek Tenggiri Super Premium Murah  AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+        "support": 0.0031,
+        "confidence": 0.0833,
+        "lift": 1.2897,
+        "pair_count": 1,
+        "antecedent_count": 12,
+        "consequent_count": 21
+      },
+      {
+        "antecedent": "Pempek Tenggiri Super Premium Murah  AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+        "consequent": "Pempek Tenggiri Super Premium Murah  AlKindi 10 pcs Palembang Asli SIZE MEDIUM Lenjer, Kulit & Telur",
+        "support": 0.0031,
+        "confidence": 0.0476,
+        "lift": 1.2897,
+        "pair_count": 1,
+        "antecedent_count": 21,
+        "consequent_count": 12
+      },
+      {
+        "antecedent": "Pempek Kulit Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli",
+        "consequent": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+        "support": 0.0062,
+        "confidence": 0.2857,
+        "lift": 1.0924,
+        "pair_count": 2,
+        "antecedent_count": 7,
+        "consequent_count": 85
+      },
+      {
+        "antecedent": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+        "consequent": "Pempek Kulit Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli",
+        "support": 0.0062,
+        "confidence": 0.0235,
+        "lift": 1.0924,
+        "pair_count": 2,
+        "antecedent_count": 85,
+        "consequent_count": 7
+      },
+      {
+        "antecedent": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+        "consequent": "Pempek Palembang Asli Super Murah AlKindi 10 pcs Palembang Asli SIZE MEDIUM Lenjer, Kulit & Telur",
+        "support": 0.0185,
+        "confidence": 0.0706,
+        "lift": 0.8497,
+        "pair_count": 6,
+        "antecedent_count": 85,
+        "consequent_count": 27
+      },
+      {
+        "antecedent": "Pempek Palembang Asli Super Murah AlKindi 10 pcs Palembang Asli SIZE MEDIUM Lenjer, Kulit & Telur",
+        "consequent": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+        "support": 0.0185,
+        "confidence": 0.2222,
+        "lift": 0.8497,
+        "pair_count": 6,
+        "antecedent_count": 27,
+        "consequent_count": 85
+      },
+      {
+        "antecedent": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+        "consequent": "Sterofoam Extra",
+        "support": 0.0031,
+        "confidence": 0.0118,
+        "lift": 0.7647,
+        "pair_count": 1,
+        "antecedent_count": 85,
+        "consequent_count": 5
+      },
+      {
+        "antecedent": "Sterofoam Extra",
+        "consequent": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+        "support": 0.0031,
+        "confidence": 0.2,
+        "lift": 0.7647,
+        "pair_count": 1,
+        "antecedent_count": 5,
+        "consequent_count": 85
+      },
+      {
+        "antecedent": "30 Pcs Pempek Vaccum Tahan 3 Hari ( Adaan, Lenjer, Kulit,Dan Adaan)",
+        "consequent": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+        "support": 0.0031,
+        "confidence": 0.3333,
+        "lift": 0.7576,
+        "pair_count": 1,
+        "antecedent_count": 3,
+        "consequent_count": 143
+      },
+      {
+        "antecedent": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+        "consequent": "30 Pcs Pempek Vaccum Tahan 3 Hari ( Adaan, Lenjer, Kulit,Dan Adaan)",
+        "support": 0.0031,
+        "confidence": 0.007,
+        "lift": 0.7576,
+        "pair_count": 1,
+        "antecedent_count": 143,
+        "consequent_count": 3
+      },
+      {
+        "antecedent": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MEDIUM Lenjer, Kulit & Telur",
+        "consequent": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+        "support": 0.0123,
+        "confidence": 0.1818,
+        "lift": 0.6952,
+        "pair_count": 4,
+        "antecedent_count": 22,
+        "consequent_count": 85
+      },
+      {
+        "antecedent": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+        "consequent": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MEDIUM Lenjer, Kulit & Telur",
+        "support": 0.0123,
+        "confidence": 0.0471,
+        "lift": 0.6952,
+        "pair_count": 4,
+        "antecedent_count": 85,
+        "consequent_count": 22
+      },
+      {
+        "antecedent": "Cuko Pempek Palembang 150 ML Gula batok asli Linggau",
+        "consequent": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+        "support": 0.0154,
+        "confidence": 0.2941,
+        "lift": 0.6684,
+        "pair_count": 5,
+        "antecedent_count": 17,
+        "consequent_count": 143
+      },
+      {
+        "antecedent": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+        "consequent": "Cuko Pempek Palembang 150 ML Gula batok asli Linggau",
+        "support": 0.0154,
+        "confidence": 0.035,
+        "lift": 0.6684,
+        "pair_count": 5,
+        "antecedent_count": 143,
+        "consequent_count": 17
+      },
+      {
+        "antecedent": "Pempek Kulit Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli",
+        "consequent": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+        "support": 0.0062,
+        "confidence": 0.2857,
+        "lift": 0.6494,
+        "pair_count": 2,
+        "antecedent_count": 7,
+        "consequent_count": 143
+      },
+      {
+        "antecedent": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+        "consequent": "Pempek Kulit Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli",
+        "support": 0.0062,
+        "confidence": 0.014,
+        "lift": 0.6494,
+        "pair_count": 2,
+        "antecedent_count": 143,
+        "consequent_count": 7
+      },
+      {
+        "antecedent": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MEDIUM Lenjer, Kulit & Telur",
+        "consequent": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+        "support": 0.0185,
+        "confidence": 0.2727,
+        "lift": 0.6198,
+        "pair_count": 6,
+        "antecedent_count": 22,
+        "consequent_count": 143
+      },
+      {
+        "antecedent": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+        "consequent": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MEDIUM Lenjer, Kulit & Telur",
+        "support": 0.0185,
+        "confidence": 0.042,
+        "lift": 0.6198,
+        "pair_count": 6,
+        "antecedent_count": 143,
+        "consequent_count": 22
+      },
+      {
+        "antecedent": "Pempek Tenggiri Super Premium Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+        "consequent": "Pempek Tenggiri Super Premium Murah  AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+        "support": 0.0031,
+        "confidence": 0.0303,
+        "lift": 0.469,
+        "pair_count": 1,
+        "antecedent_count": 33,
+        "consequent_count": 21
+      },
+      {
+        "antecedent": "Pempek Tenggiri Super Premium Murah  AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+        "consequent": "Pempek Tenggiri Super Premium Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+        "support": 0.0031,
+        "confidence": 0.0476,
+        "lift": 0.469,
+        "pair_count": 1,
+        "antecedent_count": 21,
+        "consequent_count": 33
+      },
+      {
+        "antecedent": "Pempek Palembang Asli Super Murah AlKindi 10 pcs Palembang Asli SIZE MEDIUM Lenjer, Kulit & Telur",
+        "consequent": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+        "support": 0.0154,
+        "confidence": 0.1852,
+        "lift": 0.4209,
+        "pair_count": 5,
+        "antecedent_count": 27,
+        "consequent_count": 143
+      },
+      {
+        "antecedent": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+        "consequent": "Pempek Palembang Asli Super Murah AlKindi 10 pcs Palembang Asli SIZE MEDIUM Lenjer, Kulit & Telur",
+        "support": 0.0154,
+        "confidence": 0.035,
+        "lift": 0.4209,
+        "pair_count": 5,
+        "antecedent_count": 143,
+        "consequent_count": 27
+      },
+      {
+        "antecedent": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+        "consequent": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+        "support": 0.0277,
+        "confidence": 0.1059,
+        "lift": 0.2406,
+        "pair_count": 9,
+        "antecedent_count": 85,
+        "consequent_count": 143
+      },
+      {
+        "antecedent": "Pempek Palembang Asli Super Murah AlKindi 40 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+        "consequent": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+        "support": 0.0277,
+        "confidence": 0.0629,
+        "lift": 0.2406,
+        "pair_count": 9,
+        "antecedent_count": 143,
+        "consequent_count": 85
+      },
+      {
+        "antecedent": "Cuko Pempek Palembang 150 ML Gula batok asli Linggau",
+        "consequent": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+        "support": 0.0031,
+        "confidence": 0.0588,
+        "lift": 0.2249,
+        "pair_count": 1,
+        "antecedent_count": 17,
+        "consequent_count": 85
+      },
+      {
+        "antecedent": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs Palembang Asli SIZE MINI Lenjer, Kulit, & Telur",
+        "consequent": "Cuko Pempek Palembang 150 ML Gula batok asli Linggau",
+        "support": 0.0031,
+        "confidence": 0.0118,
+        "lift": 0.2249,
+        "pair_count": 1,
+        "antecedent_count": 85,
+        "consequent_count": 17
+      }
+    ]
+  }
+}
