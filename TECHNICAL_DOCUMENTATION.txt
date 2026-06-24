@@ -1,0 +1,368 @@
+
+================================================================================
+                    IMPLEMENTASI METODE AHP-TOPSIS DAN ANALISIS
+                    PERILAKU KONSUMEN DALAM DASHBOARD BUSINESS
+                    INTELLIGENCE PENJUALAN RETAIL
+================================================================================
+
+Dibuat Oleh: 1.	Lucas Vincent Kurniawan Obedius Nobel – 322410010
+             2.	Demitri Fernando Putra Aryandi - 322310010
+Tanggal: 2026
+Versi: 1.0
+
+================================================================================
+DAFTAR ISI
+================================================================================
+1. PENDAHULUAN
+2. ARSITEKTUR SISTEM
+3. STRUKTUR PROYEK
+4. IMPLEMENTASI DASHBOARD BI
+5. METODE AHP-TOPSIS UNTUK PENDUKUNG KEPUTUSAN
+6. ANALISIS PERILAKU KONSUMEN
+7. DATASET DAN FORMAT DATA
+8. PENGGUNAAN SISTEM
+9. LAMPIRAN
+
+================================================================================
+1. PENDAHULUAN
+================================================================================
+
+1.1 Latar Belakang
+------------------
+Proyek ini bertujuan untuk mengimplementasikan sistem Business Intelligence (BI)
+dan Sistem Pendukung Keputusan (SPK) untuk analisis penjualan retail di platform
+Shopee. Sistem menggabungkan:
+- Dashboard BI untuk visualisasi data penjualan
+- Metode AHP-TOPSIS untuk peringkat prioritas wilayah ekspansi
+- Analisis perilaku konsumen dengan clustering dan Market Basket Analysis
+
+1.2 Tujuan
+----------
+- Menyediakan visualisasi data penjualan yang interaktif
+- Membantu pengambilan keputusan ekspansi wilayah dengan AHP-TOPSIS
+- Menganalisis perilaku konsumen untuk strategi pemasaran
+- Menyediakan rekomendasi produk bundling
+
+1.3 Ruang Lingkup
+-----------------
+- Dashboard dengan 4 chart utama (tren, loyalitas, wilayah, produk)
+- Sistem peringkat wilayah dengan AHP-TOPSIS
+- Clustering konsumen menjadi 3 kelompok (High, Medium, Low Value)
+- Market Basket Analysis untuk rekomendasi bundling
+
+================================================================================
+2. ARSITEKTUR SISTEM
+================================================================================
+
+2.1 Arsitektur Umum
+--------------------
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                         LAPISAN ANTARMUKA PENGGUNA                           │
+│                     (HTML + Tailwind CSS + Chart.js)                        │
+├─────────────────────────────────────────────────────────────────────────────┤
+│                           LAPISAN LOGIKA BISNIS                              │
+│              (AHP-TOPSIS, Clustering, MBA, Filter Data)                     │
+├─────────────────────────────────────────────────────────────────────────────┤
+│                            LAPISAN DATA                                      │
+│                    (JSON Dataset Shopee Transactions)                       │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+2.2 Teknologi yang Digunakan
+-----------------------------
+- Frontend:
+  * HTML5 - Struktur halaman
+  * Tailwind CSS 3.x - Styling dengan tema kustom
+  * Chart.js 4.x - Visualisasi grafik
+  * Vanilla JavaScript - Logika aplikasi
+
+- Data Format:
+  * JSON - Penyimpanan dan pertukaran data
+
+================================================================================
+3. STRUKTUR PROYEK
+================================================================================
+
+uasBI/
+├── index.html                          # File utama dashboard
+├── create_chart_pages.py               # Script Python (kosong)
+├── shopee_analysis.json                # Dataset transaksi Shopee
+├── Implementasi Metode AHP-TOPSIS...docx  # Dokumen laporan
+└── TECHNICAL_DOCUMENTATION.txt         # Dokumentasi ini (file ini)
+
+================================================================================
+4. IMPLEMENTASI DASHBOARD BI
+================================================================================
+
+4.1 Struktur Dashboard
+-----------------------
+Dashboard terdiri dari beberapa bagian utama:
+
+1. Header Control Panel
+   - Filter Bulan
+   - Rentang Waktu
+   - Filter Lokasi
+   - Pemilih Tema (Light, Dark, Brown, Lime)
+
+2. KPI Cards
+   - Total Omzet
+   - Total Transaksi
+   - Rata-rata Order Value (AOV)
+   - Top Performa Area
+
+3. Dashboard Summary
+   - Total Baris Transaksi
+   - Bulan Tercatat
+   - Kota Unik
+   - Produk Unik
+
+4. Visualisasi Charts (4 Chart Utama)
+   - Chart 1: Tren Pendapatan Harian (Line Chart)
+   - Chart 2: Top Pelanggan Terloyal (Horizontal Bar Chart)
+   - Chart 3: Distribusi Omzet Kota (Bar Chart)
+   - Chart 4: Pareto Produk Terlaris (Doughnut Chart)
+
+5. Customer Segmentation
+   - 3 Cluster: High Value, Medium Value, Low Value
+
+6. SPK AHP-TOPSIS
+   - Tabel peringkat wilayah ekspansi
+
+7. Market Basket Analysis
+   - Tabel rekomendasi bundling
+
+8. Executive Conclusion
+   - Ringkasan bisnis dan rekomendasi
+
+9. Business Questions
+   - Analisis jawaban pertanyaan bisnis strategis
+
+4.2 Tema Kustom
+----------------
+Sistem mendukung 4 tema:
+- Light (default)
+- Dark
+- Brown
+- Lime
+
+Setiap tema memiliki palet warna konsisten untuk card, teks, dan latar belakang.
+
+================================================================================
+5. METODE AHP-TOPSIS UNTUK PENDUKUNG KEPUTUSAN
+================================================================================
+
+5.1 Pengertian AHP-TOPSIS
+--------------------------
+AHP (Analytic Hierarchy Process) digunakan untuk menentukan bobot kriteria,
+sedangkan TOPSIS (Technique for Order Preference by Similarity to Ideal Solution)
+digunakan untuk meranking alternatif berdasarkan jarak ke solusi ideal positif
+dan negatif.
+
+5.2 Kriteria Evaluasi
+----------------------
+Kriteria yang digunakan untuk peringkat wilayah:
+1. Total Omzet
+2. Jumlah Transaksi
+3. Average Order Value (AOV)
+4. Jumlah Pelanggan Unik
+
+5.3 Langkah-langkah AHP
+------------------------
+1. Definisikan hierarki keputusan
+2. Buat matriks perbandingan berpasangan untuk kriteria
+3. Hitung bobot prioritas kriteria
+4. Hitung Consistency Ratio (CR) untuk validasi
+
+5.4 Langkah-langkah TOPSIS
+---------------------------
+1. Normalisasi matriks keputusan
+2. Kalikan dengan bobot kriteria
+3. Tentukan solusi ideal positif (A+) dan negatif (A-)
+4. Hitung jarak Euclidean setiap alternatif ke A+ dan A-
+5. Hitung nilai preferensi (V) untuk setiap alternatif
+6. Urutkan alternatif berdasarkan V (descending)
+
+5.5 Output SPK
+--------------
+- Tabel peringkat wilayah dengan nilai preferensi
+- Status rekomendasi (Prioritas, Pertimbangan, Cadangan)
+
+================================================================================
+6. ANALISIS PERILAKU KONSUMEN
+================================================================================
+
+6.1 Customer Segmentation (Clustering)
+---------------------------------------
+Konsumen dikelompokkan menjadi 3 klaster berdasarkan:
+- Total Pengeluaran
+- Frekuensi Pembelian
+- Rata-rata Nilai Pesanan
+
+Klaster:
+1. High Value - Konsumen premium dengan pengeluaran tinggi
+2. Medium Value - Konsumen reguler
+3. Low Value - Konsumen baru atau occasional
+
+6.2 Market Basket Analysis (MBA)
+---------------------------------
+Mengidentifikasi asosiasi produk yang sering dibeli bersama:
+- Antecedent - Produk yang dibeli pertama
+- Consequent - Produk yang dibeli setelahnya
+- Support - Proporsi transaksi yang mengandung itemset
+- Confidence - Probabilitas membeli consequent jika membeli antecedent
+- Lift - Rasio confidence dibanding support consequent
+
+6.3 Analisis Tren dan Loyalitas
+--------------------------------
+- Tren pendapatan harian untuk mengidentifikasi peak season
+- Top pelanggan loyal berdasarkan total pengeluaran
+- Pareto analysis untuk produk terlaris (80/20 rule)
+
+================================================================================
+7. DATASET DAN FORMAT DATA
+================================================================================
+
+7.1 Struktur shopee_analysis.json
+----------------------------------
+{
+  "metadata": {
+    "generated_at": "2026-06-20T14:20:10.784660",
+    "source_file": "Shopee_Seller_Transaction.csv",
+    "total_rows": 403,
+    "total_orders": 325,
+    "total_unique_products": 20,
+    "multi_item_orders": 67
+  },
+  "transactions": [
+    {
+      "No. Pesanan": "251104U5YR6YEJ",
+      "Waktu Pesanan Dibuat": "2025-11-04 12:42",
+      "Nama Produk": "Pempek Palembang Asli Super Murah  AlKindi 20 pcs...",
+      "Nama Variasi": "",
+      "Jumlah": 1,
+      "Total Pembayaran": 134.0,
+      "Username (Pembeli)": "yulifatma12",
+      "Kota/Kabupaten": "KOTA BEKASI"
+    },
+    ...
+  ]
+}
+
+7.2 Atribut Dataset
+-------------------
+| Atribut                  | Tipe       | Deskripsi                                  |
+|--------------------------|------------|--------------------------------------------|
+| No. Pesanan              | String     | Nomor unik pesanan                         |
+| Waktu Pesanan Dibuat     | String     | Timestamp pembuatan pesanan (YYYY-MM-DD HH:MM)|
+| Nama Produk              | String     | Nama produk yang dibeli                    |
+| Nama Variasi             | String     | Variasi produk (opsional)                  |
+| Jumlah                   | Integer    | Jumlah item yang dibeli                    |
+| Total Pembayaran         | Float      | Total pembayaran (dalam ribu rupiah?)      |
+| Username (Pembeli)       | String     | Username pembeli                           |
+| Kota/Kabupaten           | String     | Kota/kabupaten pengiriman                  |
+
+7.3 Statistik Dataset
+----------------------
+- Total Baris Transaksi: 403
+- Total Pesanan Unik: 325
+- Total Produk Unik: 20
+- Pesanan Multi-Item: 67
+
+================================================================================
+8. PENGGUNAAN SISTEM
+================================================================================
+
+8.1 Cara Menjalankan Dashboard
+-------------------------------
+1. Buka file `index.html` di browser web modern (Chrome, Firefox, Edge)
+2. Dashboard akan otomatis memuat dataset dari `shopee_analysis.json`
+3. Interaksi dengan dashboard sesuai kebutuhan
+
+8.2 Fitur Interaktif
+---------------------
+1. Filter Data
+   - Pilih bulan tertentu dari dropdown "Filter Bulan"
+   - Pilih rentang waktu dari "Rentang Waktu"
+   - Pilih lokasi dari "Filter Berdasarkan Lokasi"
+
+2. Ganti Tema
+   - Klik dropdown "Tema Tampilan"
+   - Pilih tema: Light, Dark, Brown, atau Lime
+
+3. Navigasi
+   - Scroll ke bawah untuk melihat semua bagian dashboard
+   - Semua chart interaktif (hover untuk detail)
+
+8.3 Interpretasi Hasil
+------------------------
+- KPI Cards: Lihat metrik utama secara sekilas
+- Charts: Analisis tren dan distribusi
+- Clustering: Identifikasi segmen konsumen
+- AHP-TOPSIS: Lihat peringkat wilayah untuk ekspansi
+- MBA: Gunakan rekomendasi bundling untuk cross-selling
+
+================================================================================
+9. BUSINESS QUESTIONS DAN ANALISIS
+================================================================================
+
+BQ1: Manajemen Inventori & Risiko Rantai Pasok
+- Pertanyaan: Kapan peak season terjadi secara konsisten?
+- Metode: Analisis time-series tren pendapatan harian
+- Tujuan: Optimalkan stok dan jadwal produksi
+
+BQ2: Optimasi Logistik & Ekspansi Geografis
+- Pertanyaan: Wilayah mana yang memiliki performa terbaik?
+- Metode: AHP-TOPSIS peringkat wilayah
+- Tujuan: Prioritas gudang transit dan ekspansi
+
+BQ3: Strategi Retensi & Segmentasi Pelanggan
+- Pertanyaan: Bagaimana karakteristik klaster konsumen loyal?
+- Metode: Clustering (High/Medium/Low Value)
+- Tujuan: Program loyalitas dan personalisasi
+
+BQ4: Rekayasa Menu & Bundling Anti-Rugi
+- Pertanyaan: Kombinasi produk apa yang paling sering dibeli bersama?
+- Metode: Market Basket Analysis
+- Tujuan: Paket bundling untuk meningkatkan AOV
+
+BQ5: Efektivitas Promosi & AOV
+- Pertanyaan: Apakah batas minimal gratis ongkir optimal?
+- Metode: Analisis AOV dan distribusi nilai pesanan
+- Tujuan: Optimalkan threshold voucher dan promo
+
+================================================================================
+10. PEMELIHARAAN DAN PENGEMBANGAN SELANJUTNYA
+================================================================================
+
+10.1 Pemeliharaan Data
+-----------------------
+- Perbarui `shopee_analysis.json` secara berkala dengan data transaksi baru
+- Pastikan format JSON konsisten
+- Validasi data sebelum update
+
+10.2 Pengembangan Fitur Mendatang
+----------------------------------
+1. Integrasi dengan live API Shopee Seller Center
+2. Export laporan ke PDF/Excel
+3. Predictive analytics untuk forecasting penjualan
+4. Notifikasi otomatis untuk peringatan stok
+5. User authentication untuk multi-user
+
+10.3 Optimisasi Performa
+--------------------------
+- Lazy loading untuk chart
+- Paginasi untuk dataset besar
+- Caching untuk perhitungan AHP-TOPSIS
+- Compress gambar dan aset
+
+================================================================================
+11. LAMPIRAN
+================================================================================
+
+Lampiran A: Contoh Perhitungan AHP
+Lampiran B: Contoh Perhitungan TOPSIS
+Lampiran C: Glosarium Istilah
+Lampiran D: Referensi
+
+================================================================================
+AKHIR DOKUMENTASI
+================================================================================
